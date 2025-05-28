@@ -37,6 +37,8 @@ def detect():
             current_date = datetime.today().date()
             days_until_expiry = (expiry_date - current_date).days
             days_until_expiry = max(days_until_expiry, 0)  
+            if (expiry_date - current_date).days < 0:
+                return render_template('index.html', warning="Warning: This medicine is already expired!")
 
             temperature = float(request.form['temperature'])
             warning_labels = int(request.form['warningLabels'])  # No encoding required

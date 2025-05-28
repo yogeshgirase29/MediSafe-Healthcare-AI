@@ -11,7 +11,12 @@
     <div class="container">
         <h2 class="text-center text-primary">Medicine Safety Check</h2>
         <p class="text-center">Enter medicine details to check if it is safe.</p>
-
+        {% if warning %}
+            <div class="alert alert-danger text-center">
+                {{ warning }}
+            </div>
+        {% endif %}
+        
         <form action="/predict" method="post" class="bg-white p-4 shadow rounded">
             <div class="mb-3">
                 <label class="form-label">Active Ingredient</label>
