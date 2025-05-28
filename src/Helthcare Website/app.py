@@ -2,7 +2,6 @@ import numpy as np
 from flask import Flask, render_template, request, redirect
 import pickle
 import os
-
 from datetime import datetime
 
 # Load model, encoders, and scaler
@@ -31,8 +30,8 @@ def detect():
         try:
             # Get user inputs
             active_ingredient = request.form['activeIngredient']
-            # days_until_expiry = float(request.form['daysUntilExpiry'])
-
+            
+            #Expiry date
             expiry_date_str = request.form['expiryDate']
             expiry_date = datetime.strptime(expiry_date_str, "%Y-%m-%d").date()
             current_date = datetime.today().date()
@@ -50,7 +49,7 @@ def detect():
             if 'Active Ingredient' in encoders:
                 active_ingredient_encoded = encoders['Active Ingredient'].transform([active_ingredient])[0]
             else:
-                active_ingredient_encoded = 0  # Default value if not in training data
+                active_ingredient_encoded = 0  
 
             # Separate numerical features
             numerical_features = np.array([[days_until_expiry, temperature, 
@@ -62,10 +61,10 @@ def detect():
 
             # Combine Encoded Categorical + Scaled Numerical Data in Correct Order
             input_data_final = np.hstack((
-                [[active_ingredient_encoded]],  # 1️⃣ Active Ingredient (Encoded)
-                numerical_features_scaled[:, :2],  # 2️⃣ Days Until Expiry, 3️⃣ Storage Temperature (Scaled)
-                [[warning_labels]],  # 4️⃣ Warning Labels Present (As is)
-                numerical_features_scaled[:, 2:]  # 5️⃣ Dissolution Rate, 6️⃣ Disintegration Time, 7️⃣ Impurity Level, 8️⃣ Assay Purity (Scaled)
+                [[active_ingredient_encoded]], 
+                numerical_features_scaled[:, :2], 
+                [[warning_labels]],  
+                numerical_features_scaled[:, 2:] 
             ))
 
             print(input_data_final)
