@@ -3,6 +3,8 @@ from flask import Flask, render_template, request, redirect
 import pickle
 import os
 
+from datetime import datetime
+
 # Load model, encoders, and scaler
 model_file = os.path.join(os.path.dirname(__file__), 'medicine_quality_model.pkl')
 encoder_file = os.path.join(os.path.dirname(__file__), 'encoders.pkl')
@@ -29,7 +31,14 @@ def detect():
         try:
             # Get user inputs
             active_ingredient = request.form['activeIngredient']
-            days_until_expiry = float(request.form['daysUntilExpiry'])
+            # days_until_expiry = float(request.form['daysUntilExpiry'])
+
+            expiry_date_str = request.form['expiryDate']
+            expiry_date = datetime.strptime(expiry_date_str, "%Y-%m-%d").date()
+            current_date = datetime.today().date()
+            days_until_expiry = (expiry_date - current_date).days
+            days_until_expiry = max(days_until_expiry, 0)  
+
             temperature = float(request.form['temperature'])
             warning_labels = int(request.form['warningLabels'])  # No encoding required
             dissolution = float(request.form['dissolution'])
