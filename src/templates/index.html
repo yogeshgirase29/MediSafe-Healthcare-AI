@@ -1,0 +1,98 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MediSmart Healthcare Portal</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: linear-gradient(135deg, #c2e9fb, #a1c4fd);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Poppins', sans-serif;
+    }
+    .card {
+      border: none;
+      border-radius: 15px;
+      transition: all 0.3s ease;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+    }
+    .card-title {
+      font-weight: 600;
+    }
+    .btn-custom {
+      background: #007bff;
+      border: none;
+      color: white;
+      font-weight: 500;
+      border-radius: 8px;
+      padding: 8px 20px;
+      transition: 0.3s;
+    }
+    .btn-custom:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container text-center">
+    <h1 class="mb-5 text-dark fw-bold animate__animated animate__fadeInDown">
+      🏥 AI-Powered Healthcare & Medicine Quality Website
+    </h1>
+
+    <div class="row justify-content-center g-4">
+      <!-- Medicine Quality -->
+      <div class="col-md-4 animate__animated animate__fadeInLeft">
+        <div class="card p-4">
+          <div class="card-body">
+            <h4 class="card-title text-primary">🧪 Medicine Quality Check</h4>
+            <p class="text-muted mb-4">
+              Check whether a medicine batch meets safety and quality standards using AI-based lab features.
+            </p>
+            <a href="/quality" class="btn btn-custom">Medicine Quality</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Disease Prediction -->
+      <div class="col-md-4 animate__animated animate__fadeInUp">
+        <div class="card p-4">
+          <div class="card-body">
+            <h4 class="card-title text-success">🤒 Disease Prediction</h4>
+            <p class="text-muted mb-4">
+              Input your symptoms and let AI predict possible diseases for early diagnosis.
+            </p>
+            <a href="/disease" class="btn btn-custom">Disease Prediction</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Medicine Recommendation -->
+      <div class="col-md-4 animate__animated animate__fadeInRight">
+        <div class="card p-4">
+          <div class="card-body">
+            <h4 class="card-title text-danger">💊 Medicine Recommendation</h4>
+            <p class="text-muted mb-4">
+              Get personalized medicine recommendations based on disease, severity, and age group.
+            </p>
+            <a href="/medicine" class="btn btn-custom">Medicine Recommendation</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

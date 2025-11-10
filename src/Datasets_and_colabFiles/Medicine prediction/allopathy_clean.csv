@@ -1,0 +1,1101 @@
+Disease_Name,Disease_Severity,Age_Group,Medicine_Name,Dosage_Form,Recommended_Dosage,Treatment_Duration,Precautions,Medicine_Approval_Status
+Common Cold,Mild,Adult,Cetirizine,Drops,500 mg twice daily,30 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,250 mg once daily,14 days,Do not exceed dosage,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Inhaler,250 mg once daily,10 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Child,Glibenclamide,Drops,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Inhaler,500 mg twice daily,7 days,Consult doctor if pregnant,FDA Approved
+Anemia,Mild,Child,Ferrous Sulfate,Tablet,2 puffs as needed,3 days,Do not exceed dosage,FDA Approved
+Diabetes,Severe,Adult,Glibenclamide,Powder,250 mg once daily,30 days,Avoid alcohol,FDA Approved
+Fever,Severe,Adult,Paracetamol,Capsule,500 mg twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Capsule,1 tablet at night,7 days,Store in cool place,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Capsule,2 puffs as needed,10 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Tablet,250 mg once daily,Continuous,Avoid alcohol,FDA Approved
+Hypertension,Severe,Child,Amlodipine,Powder,1 tablet at night,7 days,Take after food,FDA Approved
+Acidity,Mild,Elderly,Omeprazole,Syrup,250 mg once daily,5 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Powder,2 puffs as needed,7 days,Take after food,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Tablet,250 mg once daily,30 days,Take after food,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Inhaler,1 tsp twice daily,7 days,Do not exceed dosage,FDA Approved
+Fever,Severe,Child,Paracetamol,Syrup,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Diabetes,Severe,Adult,Metformin,Drops,5 ml thrice daily,14 days,Take after food,FDA Approved
+Urinary Tract Infection,Mild,Elderly,Amoxicillin,Drops,1 tsp twice daily,14 days,Take after food,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Powder,500 mg twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Acidity,Severe,Elderly,Omeprazole,Syrup,250 mg once daily,3 days,Take after food,FDA Approved
+Anemia,Mild,Child,Iron Polysaccharide,Tablet,1 tsp twice daily,Continuous,Take after food,FDA Approved
+Cough,Mild,Elderly,Dextromethorphan,Powder,1 tsp twice daily,10 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Ciprofloxacin,Inhaler,1 tablet at night,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Tablet,5 ml thrice daily,3 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Drops,500 mg twice daily,5 days,Avoid alcohol,FDA Approved
+Fever,Mild,Child,Ibuprofen,Drops,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Elderly,Guaifenesin,Capsule,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Inhaler,2 puffs as needed,Continuous,Store in cool place,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Inhaler,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Capsule,5 ml thrice daily,10 days,Take after food,FDA Approved
+Common Cold,Moderate,Elderly,Cetirizine,Tablet,1 tablet at night,14 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Adult,Pseudoephedrine,Inhaler,2 puffs as needed,5 days,Avoid driving,FDA Approved
+Fever,Mild,Child,Paracetamol,Inhaler,5 ml thrice daily,10 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,500 mg twice daily,14 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Inhaler,1 tsp twice daily,Continuous,Do not exceed dosage,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Tablet,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Asthma,Moderate,Elderly,Salbutamol,Powder,1 tsp twice daily,3 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Syrup,250 mg once daily,30 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,2 puffs as needed,7 days,Avoid alcohol,FDA Approved
+Fever,Severe,Elderly,Paracetamol,Tablet,1 tsp twice daily,5 days,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Adult,Metformin,Capsule,5 ml thrice daily,7 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Ranitidine,Drops,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Capsule,5 ml thrice daily,3 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,250 mg once daily,30 days,Store in cool place,FDA Approved
+Diabetes,Severe,Adult,Metformin,Tablet,500 mg twice daily,30 days,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Metformin,Syrup,250 mg once daily,30 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Drops,250 mg once daily,14 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Child,Amlodipine,Syrup,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Bromhexine,Capsule,2 puffs as needed,3 days,Take after food,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Drops,250 mg once daily,7 days,Take after food,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Capsule,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Syrup,500 mg twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Powder,5 ml thrice daily,3 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Tablet,1 tsp twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Powder,250 mg once daily,7 days,Avoid alcohol,FDA Approved
+Migraine,Moderate,Elderly,Sumatriptan,Drops,1 tablet at night,30 days,Store in cool place,FDA Approved
+Asthma,Moderate,Child,Salbutamol,Syrup,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Inhaler,5 ml thrice daily,10 days,Store in cool place,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Inhaler,1 tablet at night,30 days,Take after food,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Syrup,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Drops,250 mg once daily,14 days,Avoid driving,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Powder,5 ml thrice daily,3 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Metformin,Capsule,2 puffs as needed,14 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Drops,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Tablet,2 puffs as needed,5 days,Take after food,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Tablet,2 puffs as needed,5 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Severe,Adult,Amoxicillin,Inhaler,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Elderly,Nitrofurantoin,Capsule,1 tablet at night,Continuous,Avoid driving,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,2 puffs as needed,30 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Metformin,Syrup,5 ml thrice daily,14 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Capsule,500 mg twice daily,10 days,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Inhaler,2 puffs as needed,Continuous,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Ibuprofen,Tablet,5 ml thrice daily,7 days,Avoid driving,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Capsule,2 puffs as needed,5 days,Consult doctor if pregnant,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Inhaler,1 tablet at night,5 days,Avoid driving,FDA Approved
+Cough,Severe,Adult,Bromhexine,Powder,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Tablet,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Syrup,2 puffs as needed,7 days,Avoid alcohol,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Syrup,250 mg once daily,30 days,Avoid alcohol,FDA Approved
+Fever,Mild,Elderly,Ibuprofen,Tablet,1 tsp twice daily,5 days,Take after food,FDA Approved
+Cough,Severe,Child,Dextromethorphan,Inhaler,1 tablet at night,7 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Elderly,Dextromethorphan,Capsule,5 ml thrice daily,3 days,Do not exceed dosage,FDA Approved
+Fever,Severe,Adult,Aspirin,Inhaler,2 puffs as needed,30 days,Take after food,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Drops,5 ml thrice daily,Continuous,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Folic Acid,Tablet,5 ml thrice daily,14 days,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Inhaler,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Inhaler,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Elderly,Metformin,Inhaler,2 puffs as needed,Continuous,Store in cool place,FDA Approved
+Anemia,Moderate,Elderly,Ferrous Sulfate,Tablet,5 ml thrice daily,10 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Inhaler,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Powder,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Paracetamol,Inhaler,2 puffs as needed,14 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Tablet,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Powder,5 ml thrice daily,10 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,250 mg once daily,3 days,Store in cool place,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Drops,250 mg once daily,5 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,5 ml thrice daily,3 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Metformin,Powder,250 mg once daily,7 days,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Paracetamol,Inhaler,500 mg twice daily,Continuous,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Drops,1 tablet at night,3 days,Take after food,FDA Approved
+Cough,Mild,Elderly,Guaifenesin,Capsule,500 mg twice daily,14 days,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Inhaler,2 puffs as needed,10 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Iron Polysaccharide,Powder,1 tablet at night,3 days,Take after food,FDA Approved
+Asthma,Mild,Child,Salbutamol,Powder,500 mg twice daily,5 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,5 ml thrice daily,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Drops,1 tsp twice daily,30 days,Take after food,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Syrup,250 mg once daily,3 days,Avoid alcohol,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Syrup,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Elderly,Metformin,Inhaler,2 puffs as needed,3 days,Do not exceed dosage,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Tablet,500 mg twice daily,5 days,Store in cool place,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Syrup,1 tsp twice daily,3 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Tablet,250 mg once daily,7 days,Avoid driving,FDA Approved
+Acidity,Moderate,Elderly,Omeprazole,Powder,500 mg twice daily,10 days,Avoid alcohol,FDA Approved
+Hypertension,Moderate,Child,Amlodipine,Powder,500 mg twice daily,30 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Inhaler,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Child,Salbutamol,Drops,2 puffs as needed,3 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Tablet,1 tsp twice daily,10 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Elderly,Montelukast,Tablet,1 tablet at night,Continuous,Take after food,FDA Approved
+Acidity,Moderate,Adult,Pantoprazole,Inhaler,2 puffs as needed,10 days,Take after food,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Powder,1 tablet at night,5 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Elderly,Glibenclamide,Powder,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Diabetes,Moderate,Adult,Glibenclamide,Drops,2 puffs as needed,Continuous,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,2 puffs as needed,10 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Montelukast,Inhaler,500 mg twice daily,7 days,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Drops,1 tablet at night,5 days,Avoid driving,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Tablet,2 puffs as needed,3 days,Do not exceed dosage,FDA Approved
+Acidity,Severe,Child,Omeprazole,Capsule,500 mg twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Migraine,Severe,Adult,Amitriptyline,Inhaler,1 tsp twice daily,3 days,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Capsule,1 tablet at night,3 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Capsule,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Fever,Mild,Child,Paracetamol,Inhaler,250 mg once daily,5 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Tablet,1 tsp twice daily,Continuous,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Capsule,2 puffs as needed,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Moderate,Child,Omeprazole,Syrup,1 tablet at night,14 days,Take after food,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Drops,2 puffs as needed,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Inhaler,500 mg twice daily,5 days,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Tablet,1 tablet at night,10 days,Consult doctor if pregnant,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Tablet,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Adult,Glibenclamide,Capsule,1 tablet at night,5 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Capsule,1 tablet at night,3 days,Store in cool place,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Drops,250 mg once daily,3 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Adult,Losartan,Powder,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Adult,Glibenclamide,Inhaler,5 ml thrice daily,30 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Capsule,1 tablet at night,30 days,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Amitriptyline,Inhaler,500 mg twice daily,7 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Powder,2 puffs as needed,Continuous,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,5 ml thrice daily,14 days,Take after food,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Drops,2 puffs as needed,3 days,Take after food,FDA Approved
+Fever,Mild,Adult,Aspirin,Tablet,250 mg once daily,14 days,Take after food,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Powder,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Powder,2 puffs as needed,7 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,500 mg twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Mild,Adult,Amoxicillin,Syrup,250 mg once daily,3 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Tablet,500 mg twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Montelukast,Powder,250 mg once daily,14 days,Take after food,FDA Approved
+Asthma,Severe,Child,Salbutamol,Tablet,5 ml thrice daily,Continuous,Take after food,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Tablet,250 mg once daily,3 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Child,Salbutamol,Capsule,1 tablet at night,10 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Adult,Loratadine,Powder,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Drops,1 tsp twice daily,7 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Drops,500 mg twice daily,10 days,Store in cool place,FDA Approved
+Acidity,Moderate,Child,Omeprazole,Tablet,250 mg once daily,7 days,Do not exceed dosage,FDA Approved
+Anemia,Severe,Adult,Ferrous Sulfate,Powder,5 ml thrice daily,10 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Drops,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Asthma,Mild,Elderly,Salbutamol,Inhaler,2 puffs as needed,10 days,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Capsule,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Child,Loratadine,Drops,5 ml thrice daily,Continuous,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Elderly,Nitrofurantoin,Drops,500 mg twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Migraine,Severe,Adult,Propranolol,Powder,5 ml thrice daily,7 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,5 ml thrice daily,Continuous,Do not exceed dosage,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Inhaler,1 tsp twice daily,Continuous,Do not exceed dosage,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Syrup,500 mg twice daily,5 days,Take after food,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Tablet,500 mg twice daily,30 days,Do not exceed dosage,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Syrup,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Child,Ferrous Sulfate,Powder,500 mg twice daily,30 days,Avoid alcohol,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Inhaler,5 ml thrice daily,5 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Powder,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Tablet,250 mg once daily,7 days,Take after food,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Inhaler,1 tablet at night,10 days,Take after food,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Drops,5 ml thrice daily,3 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Syrup,1 tsp twice daily,10 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Propranolol,Tablet,5 ml thrice daily,5 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Elderly,Ranitidine,Tablet,250 mg once daily,10 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Syrup,250 mg once daily,7 days,Take after food,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Syrup,5 ml thrice daily,30 days,Store in cool place,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Powder,250 mg once daily,Continuous,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,1 tsp twice daily,10 days,Store in cool place,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Drops,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Powder,500 mg twice daily,7 days,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Syrup,500 mg twice daily,30 days,Avoid alcohol,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,500 mg twice daily,10 days,Do not exceed dosage,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Tablet,2 puffs as needed,3 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Inhaler,2 puffs as needed,14 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Inhaler,5 ml thrice daily,30 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Ibuprofen,Tablet,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Diabetes,Severe,Elderly,Metformin,Powder,250 mg once daily,7 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Drops,1 tablet at night,30 days,Avoid driving,FDA Approved
+Cough,Mild,Elderly,Dextromethorphan,Inhaler,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Drops,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Migraine,Mild,Child,Sumatriptan,Capsule,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Asthma,Mild,Child,Salbutamol,Tablet,1 tsp twice daily,Continuous,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Capsule,1 tsp twice daily,10 days,Take after food,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Capsule,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Powder,5 ml thrice daily,Continuous,Store in cool place,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Inhaler,250 mg once daily,7 days,Store in cool place,FDA Approved
+Anemia,Mild,Adult,Iron Polysaccharide,Inhaler,1 tsp twice daily,14 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Syrup,500 mg twice daily,30 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Child,Amlodipine,Tablet,5 ml thrice daily,3 days,Take after food,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Tablet,250 mg once daily,Continuous,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Hydrochlorothiazide,Syrup,250 mg once daily,10 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Drops,1 tablet at night,7 days,Take after food,FDA Approved
+Cough,Mild,Elderly,Dextromethorphan,Capsule,1 tablet at night,10 days,Avoid driving,FDA Approved
+Anemia,Mild,Child,Ferrous Sulfate,Capsule,1 tsp twice daily,30 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Tablet,500 mg twice daily,5 days,Avoid driving,FDA Approved
+Anemia,Severe,Child,Ferrous Sulfate,Powder,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Tablet,1 tsp twice daily,7 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,500 mg twice daily,14 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Inhaler,500 mg twice daily,30 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Child,Amlodipine,Syrup,250 mg once daily,30 days,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Tablet,5 ml thrice daily,14 days,Consult doctor if pregnant,FDA Approved
+Cough,Severe,Adult,Guaifenesin,Inhaler,1 tablet at night,5 days,Take after food,FDA Approved
+Common Cold,Mild,Elderly,Loratadine,Capsule,500 mg twice daily,Continuous,Take after food,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,2 puffs as needed,7 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Elderly,Salbutamol,Drops,5 ml thrice daily,7 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Inhaler,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Tablet,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Syrup,500 mg twice daily,3 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Metformin,Drops,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Fever,Moderate,Elderly,Ibuprofen,Inhaler,5 ml thrice daily,30 days,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Drops,1 tablet at night,5 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Capsule,500 mg twice daily,5 days,Store in cool place,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Capsule,1 tablet at night,10 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Child,Amlodipine,Syrup,2 puffs as needed,7 days,Store in cool place,FDA Approved
+Diabetes,Moderate,Child,Metformin,Inhaler,1 tsp twice daily,10 days,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,5 ml thrice daily,30 days,Avoid driving,FDA Approved
+Asthma,Mild,Elderly,Salbutamol,Drops,2 puffs as needed,3 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,5 ml thrice daily,Continuous,Take after food,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Capsule,250 mg once daily,5 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,250 mg once daily,14 days,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Elderly,Cetirizine,Powder,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Anemia,Moderate,Elderly,Ferrous Sulfate,Inhaler,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Powder,250 mg once daily,Continuous,Take after food,FDA Approved
+Migraine,Moderate,Elderly,Sumatriptan,Powder,250 mg once daily,7 days,Take after food,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Powder,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Drops,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Common Cold,Severe,Adult,Cetirizine,Capsule,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Tablet,500 mg twice daily,3 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Powder,1 tablet at night,3 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Elderly,Nitrofurantoin,Drops,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Inhaler,250 mg once daily,7 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Syrup,2 puffs as needed,5 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,2 puffs as needed,5 days,Take after food,FDA Approved
+Common Cold,Severe,Elderly,Cetirizine,Inhaler,250 mg once daily,Continuous,Take after food,FDA Approved
+Hypertension,Mild,Adult,Hydrochlorothiazide,Capsule,2 puffs as needed,14 days,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Inhaler,1 tsp twice daily,10 days,Take after food,FDA Approved
+Asthma,Mild,Child,Salbutamol,Powder,1 tablet at night,30 days,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Metformin,Syrup,1 tablet at night,7 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Child,Amlodipine,Syrup,1 tsp twice daily,7 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Powder,1 tablet at night,14 days,Avoid alcohol,FDA Approved
+Cough,Moderate,Adult,Bromhexine,Syrup,1 tsp twice daily,7 days,Take after food,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Tablet,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Severe,Child,Omeprazole,Capsule,5 ml thrice daily,14 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Powder,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Tablet,5 ml thrice daily,7 days,Store in cool place,FDA Approved
+Common Cold,Moderate,Adult,Pseudoephedrine,Drops,1 tablet at night,30 days,Avoid alcohol,FDA Approved
+Anemia,Moderate,Elderly,Ferrous Sulfate,Powder,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Powder,2 puffs as needed,5 days,Store in cool place,FDA Approved
+Asthma,Mild,Elderly,Salbutamol,Tablet,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Powder,2 puffs as needed,Continuous,Store in cool place,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Drops,2 puffs as needed,14 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Adult,Hydrochlorothiazide,Powder,5 ml thrice daily,30 days,Store in cool place,FDA Approved
+Diabetes,Mild,Adult,Metformin,Powder,5 ml thrice daily,5 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Glibenclamide,Inhaler,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Inhaler,5 ml thrice daily,Continuous,Take after food,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Inhaler,1 tablet at night,7 days,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,1 tablet at night,7 days,Take after food,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Drops,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Tablet,1 tablet at night,Continuous,Take after food,FDA Approved
+Fever,Mild,Elderly,Aspirin,Drops,2 puffs as needed,10 days,Store in cool place,FDA Approved
+Asthma,Mild,Adult,Budesonide,Tablet,500 mg twice daily,30 days,Do not exceed dosage,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Capsule,2 puffs as needed,Continuous,Take after food,FDA Approved
+Fever,Mild,Adult,Aspirin,Drops,5 ml thrice daily,3 days,Avoid alcohol,FDA Approved
+Diabetes,Severe,Child,Metformin,Syrup,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Severe,Elderly,Nitrofurantoin,Inhaler,5 ml thrice daily,5 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Capsule,500 mg twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Metformin,Drops,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,2 puffs as needed,7 days,Take after food,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Syrup,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Tablet,1 tablet at night,3 days,Avoid driving,FDA Approved
+Diabetes,Severe,Adult,Metformin,Drops,5 ml thrice daily,30 days,Avoid alcohol,FDA Approved
+Diabetes,Severe,Adult,Metformin,Inhaler,250 mg once daily,10 days,Store in cool place,FDA Approved
+Anemia,Severe,Adult,Ferrous Sulfate,Powder,1 tablet at night,Continuous,Take after food,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Powder,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,1 tsp twice daily,5 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Tablet,1 tablet at night,5 days,Store in cool place,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Tablet,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Child,Sumatriptan,Syrup,1 tablet at night,3 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Adult,Glibenclamide,Tablet,2 puffs as needed,7 days,Store in cool place,FDA Approved
+Common Cold,Severe,Child,Cetirizine,Inhaler,500 mg twice daily,7 days,Avoid driving,FDA Approved
+Cough,Severe,Adult,Guaifenesin,Drops,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Acidity,Mild,Elderly,Ranitidine,Drops,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Powder,2 puffs as needed,14 days,Take after food,FDA Approved
+Asthma,Severe,Adult,Budesonide,Inhaler,1 tablet at night,30 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Syrup,250 mg once daily,7 days,Take after food,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Tablet,250 mg once daily,5 days,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Tablet,250 mg once daily,30 days,Avoid alcohol,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Tablet,250 mg once daily,14 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Budesonide,Powder,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Child,Salbutamol,Capsule,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Capsule,1 tablet at night,30 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Severe,Elderly,Nitrofurantoin,Drops,2 puffs as needed,Continuous,Do not exceed dosage,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Capsule,1 tsp twice daily,10 days,Take after food,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Tablet,1 tsp twice daily,10 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,1 tablet at night,3 days,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Powder,1 tablet at night,30 days,Do not exceed dosage,FDA Approved
+Asthma,Mild,Elderly,Salbutamol,Tablet,250 mg once daily,5 days,Store in cool place,FDA Approved
+Common Cold,Severe,Adult,Loratadine,Drops,1 tsp twice daily,30 days,Take after food,FDA Approved
+Migraine,Moderate,Adult,Amitriptyline,Inhaler,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Inhaler,500 mg twice daily,Continuous,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Syrup,2 puffs as needed,3 days,Do not exceed dosage,FDA Approved
+Asthma,Moderate,Child,Budesonide,Powder,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Metformin,Capsule,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Drops,1 tablet at night,10 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Powder,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Paracetamol,Drops,500 mg twice daily,Continuous,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,500 mg twice daily,5 days,Do not exceed dosage,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Capsule,500 mg twice daily,3 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Drops,250 mg once daily,7 days,Store in cool place,FDA Approved
+Common Cold,Moderate,Elderly,Cetirizine,Tablet,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Tablet,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Powder,500 mg twice daily,5 days,Take after food,FDA Approved
+Anemia,Mild,Child,Ferrous Sulfate,Syrup,1 tsp twice daily,14 days,Store in cool place,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Capsule,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Migraine,Moderate,Adult,Amitriptyline,Powder,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Drops,1 tablet at night,3 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,1 tsp twice daily,Continuous,Do not exceed dosage,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,2 puffs as needed,10 days,Take after food,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,250 mg once daily,10 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Tablet,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Child,Metformin,Powder,1 tsp twice daily,14 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,250 mg once daily,14 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,2 puffs as needed,5 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Tablet,5 ml thrice daily,7 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Syrup,500 mg twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Inhaler,1 tablet at night,14 days,Take after food,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Syrup,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Severe,Adult,Glibenclamide,Capsule,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Elderly,Sumatriptan,Powder,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Fever,Moderate,Adult,Aspirin,Inhaler,5 ml thrice daily,Continuous,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Inhaler,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Inhaler,500 mg twice daily,10 days,Do not exceed dosage,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Drops,2 puffs as needed,14 days,Avoid alcohol,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Tablet,500 mg twice daily,Continuous,Take after food,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Drops,1 tablet at night,30 days,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Hydrochlorothiazide,Syrup,250 mg once daily,14 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,2 puffs as needed,10 days,Store in cool place,FDA Approved
+Anemia,Severe,Adult,Ferrous Sulfate,Inhaler,500 mg twice daily,7 days,Avoid driving,FDA Approved
+Common Cold,Mild,Elderly,Cetirizine,Syrup,5 ml thrice daily,10 days,Take after food,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Drops,2 puffs as needed,7 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Adult,Metformin,Syrup,1 tablet at night,3 days,Store in cool place,FDA Approved
+Cough,Moderate,Adult,Bromhexine,Powder,250 mg once daily,7 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Amitriptyline,Capsule,250 mg once daily,30 days,Store in cool place,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Inhaler,1 tsp twice daily,10 days,Avoid driving,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Tablet,1 tsp twice daily,3 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Drops,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Powder,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,1 tablet at night,5 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Child,Sumatriptan,Capsule,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,2 puffs as needed,14 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Hydrochlorothiazide,Inhaler,1 tsp twice daily,14 days,Store in cool place,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Inhaler,2 puffs as needed,5 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,250 mg once daily,14 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Inhaler,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Syrup,1 tsp twice daily,Continuous,Avoid alcohol,FDA Approved
+Acidity,Mild,Elderly,Omeprazole,Drops,250 mg once daily,7 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Elderly,Omeprazole,Tablet,250 mg once daily,5 days,Store in cool place,FDA Approved
+Anemia,Moderate,Elderly,Ferrous Sulfate,Inhaler,250 mg once daily,14 days,Take after food,FDA Approved
+Asthma,Moderate,Adult,Budesonide,Powder,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Cough,Severe,Adult,Bromhexine,Syrup,1 tablet at night,5 days,Store in cool place,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Drops,2 puffs as needed,10 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,1 tablet at night,Continuous,Avoid alcohol,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Syrup,2 puffs as needed,10 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,2 puffs as needed,30 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Losartan,Inhaler,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Powder,2 puffs as needed,Continuous,Consult doctor if pregnant,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Tablet,500 mg twice daily,Continuous,Take after food,FDA Approved
+Acidity,Mild,Elderly,Omeprazole,Drops,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Cough,Mild,Elderly,Guaifenesin,Syrup,5 ml thrice daily,3 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Capsule,2 puffs as needed,30 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Capsule,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Inhaler,1 tablet at night,5 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Tablet,5 ml thrice daily,7 days,Consult doctor if pregnant,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Drops,1 tablet at night,5 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,1 tablet at night,5 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Bromhexine,Capsule,500 mg twice daily,3 days,Take after food,FDA Approved
+Common Cold,Severe,Adult,Cetirizine,Syrup,250 mg once daily,5 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Syrup,1 tablet at night,3 days,Store in cool place,FDA Approved
+Diabetes,Mild,Adult,Metformin,Inhaler,5 ml thrice daily,30 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Child,Salbutamol,Powder,500 mg twice daily,14 days,Avoid alcohol,FDA Approved
+Hypertension,Severe,Child,Hydrochlorothiazide,Powder,2 puffs as needed,7 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Elderly,Guaifenesin,Tablet,1 tsp twice daily,3 days,Avoid alcohol,FDA Approved
+Diabetes,Severe,Elderly,Metformin,Inhaler,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Drops,1 tsp twice daily,14 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Capsule,250 mg once daily,14 days,Consult doctor if pregnant,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Drops,500 mg twice daily,7 days,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Propranolol,Tablet,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,250 mg once daily,3 days,Avoid alcohol,FDA Approved
+Cough,Severe,Adult,Guaifenesin,Powder,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Diabetes,Moderate,Child,Metformin,Syrup,1 tablet at night,3 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Losartan,Drops,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,250 mg once daily,7 days,Take after food,FDA Approved
+Diabetes,Moderate,Elderly,Glibenclamide,Tablet,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Inhaler,5 ml thrice daily,10 days,Take after food,FDA Approved
+Cough,Moderate,Elderly,Bromhexine,Drops,1 tablet at night,30 days,Avoid driving,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Syrup,500 mg twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Elderly,Cetirizine,Powder,500 mg twice daily,10 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Tablet,1 tsp twice daily,10 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Elderly,Iron Polysaccharide,Drops,1 tsp twice daily,Continuous,Take after food,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,1 tablet at night,Continuous,Store in cool place,FDA Approved
+Fever,Moderate,Child,Aspirin,Drops,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Tablet,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Inhaler,1 tablet at night,7 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Inhaler,500 mg twice daily,14 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Syrup,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Capsule,250 mg once daily,Continuous,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Inhaler,500 mg twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Tablet,250 mg once daily,Continuous,Store in cool place,FDA Approved
+Diabetes,Mild,Adult,Glibenclamide,Syrup,250 mg once daily,3 days,Store in cool place,FDA Approved
+Asthma,Mild,Adult,Montelukast,Syrup,5 ml thrice daily,Continuous,Take after food,FDA Approved
+Fever,Moderate,Elderly,Aspirin,Powder,250 mg once daily,3 days,Avoid driving,FDA Approved
+Common Cold,Mild,Child,Loratadine,Capsule,250 mg once daily,5 days,Avoid driving,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Powder,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Aspirin,Capsule,500 mg twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,2 puffs as needed,Continuous,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Syrup,250 mg once daily,5 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Moderate,Child,Metformin,Powder,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Syrup,2 puffs as needed,5 days,Avoid driving,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Powder,500 mg twice daily,10 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,1 tsp twice daily,7 days,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Metformin,Syrup,500 mg twice daily,Continuous,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,500 mg twice daily,5 days,Store in cool place,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Tablet,250 mg once daily,14 days,Avoid driving,FDA Approved
+Hypertension,Mild,Elderly,Hydrochlorothiazide,Capsule,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Child,Hydrochlorothiazide,Powder,1 tsp twice daily,5 days,Do not exceed dosage,FDA Approved
+Asthma,Severe,Adult,Budesonide,Powder,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,2 puffs as needed,3 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Syrup,500 mg twice daily,3 days,Take after food,FDA Approved
+Anemia,Mild,Child,Folic Acid,Powder,5 ml thrice daily,3 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,1 tablet at night,10 days,Store in cool place,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Drops,1 tsp twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Drops,1 tablet at night,7 days,Take after food,FDA Approved
+Cough,Severe,Elderly,Guaifenesin,Inhaler,1 tsp twice daily,3 days,Take after food,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Syrup,250 mg once daily,30 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Tablet,5 ml thrice daily,7 days,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Paracetamol,Capsule,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Hypertension,Mild,Child,Amlodipine,Powder,1 tablet at night,Continuous,Store in cool place,FDA Approved
+Asthma,Moderate,Child,Salbutamol,Syrup,500 mg twice daily,7 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Drops,500 mg twice daily,14 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Tablet,2 puffs as needed,30 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Capsule,250 mg once daily,10 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Syrup,5 ml thrice daily,5 days,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Paracetamol,Tablet,5 ml thrice daily,3 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Capsule,500 mg twice daily,3 days,Take after food,FDA Approved
+Cough,Mild,Elderly,Dextromethorphan,Tablet,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,2 puffs as needed,5 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Inhaler,5 ml thrice daily,5 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Tablet,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Migraine,Moderate,Adult,Amitriptyline,Inhaler,1 tsp twice daily,10 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Inhaler,1 tablet at night,3 days,Do not exceed dosage,FDA Approved
+Anemia,Moderate,Adult,Iron Polysaccharide,Powder,250 mg once daily,3 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Bromhexine,Capsule,250 mg once daily,3 days,Avoid driving,FDA Approved
+Common Cold,Severe,Adult,Pseudoephedrine,Drops,250 mg once daily,Continuous,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Tablet,2 puffs as needed,14 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Tablet,1 tablet at night,14 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Child,Ciprofloxacin,Powder,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Powder,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,5 ml thrice daily,10 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,1 tablet at night,5 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Elderly,Pantoprazole,Syrup,5 ml thrice daily,7 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Pseudoephedrine,Drops,2 puffs as needed,Continuous,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Glibenclamide,Inhaler,250 mg once daily,Continuous,Avoid driving,FDA Approved
+Acidity,Moderate,Elderly,Ranitidine,Powder,250 mg once daily,3 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Powder,500 mg twice daily,5 days,Take after food,FDA Approved
+Asthma,Mild,Adult,Budesonide,Syrup,1 tablet at night,5 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Tablet,1 tablet at night,3 days,Take after food,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Inhaler,1 tsp twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Moderate,Elderly,Amlodipine,Drops,500 mg twice daily,7 days,Avoid alcohol,FDA Approved
+Migraine,Moderate,Elderly,Sumatriptan,Capsule,250 mg once daily,30 days,Take after food,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Drops,500 mg twice daily,10 days,Take after food,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Syrup,1 tablet at night,30 days,Store in cool place,FDA Approved
+Diabetes,Mild,Adult,Metformin,Syrup,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Powder,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Tablet,2 puffs as needed,3 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Drops,1 tablet at night,7 days,Take after food,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Powder,2 puffs as needed,30 days,Consult doctor if pregnant,FDA Approved
+Cough,Severe,Adult,Guaifenesin,Syrup,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Fever,Moderate,Elderly,Paracetamol,Syrup,1 tablet at night,30 days,Take after food,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Syrup,1 tsp twice daily,7 days,Take after food,FDA Approved
+Urinary Tract Infection,Mild,Child,Nitrofurantoin,Syrup,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Cough,Moderate,Elderly,Bromhexine,Capsule,5 ml thrice daily,5 days,Store in cool place,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Powder,5 ml thrice daily,10 days,Avoid alcohol,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,500 mg twice daily,10 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Inhaler,500 mg twice daily,Continuous,Take after food,FDA Approved
+Cough,Severe,Adult,Bromhexine,Inhaler,250 mg once daily,7 days,Store in cool place,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Capsule,5 ml thrice daily,30 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Powder,250 mg once daily,10 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Inhaler,2 puffs as needed,3 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,1 tsp twice daily,5 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Syrup,5 ml thrice daily,5 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Tablet,5 ml thrice daily,7 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Capsule,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Elderly,Salbutamol,Tablet,250 mg once daily,5 days,Store in cool place,FDA Approved
+Cough,Moderate,Child,Dextromethorphan,Tablet,5 ml thrice daily,30 days,Store in cool place,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Powder,500 mg twice daily,14 days,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Inhaler,2 puffs as needed,10 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Drops,1 tablet at night,3 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Powder,1 tablet at night,5 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Tablet,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Asthma,Severe,Adult,Budesonide,Syrup,1 tablet at night,10 days,Consult doctor if pregnant,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Inhaler,5 ml thrice daily,5 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Elderly,Paracetamol,Drops,2 puffs as needed,5 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Drops,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Child,Metformin,Tablet,5 ml thrice daily,7 days,Store in cool place,FDA Approved
+Hypertension,Severe,Child,Amlodipine,Tablet,500 mg twice daily,Continuous,Take after food,FDA Approved
+Cough,Severe,Elderly,Dextromethorphan,Syrup,1 tablet at night,3 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Syrup,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Drops,1 tablet at night,3 days,Take after food,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Drops,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Migraine,Severe,Adult,Propranolol,Drops,250 mg once daily,10 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Drops,5 ml thrice daily,3 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Ciprofloxacin,Drops,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,1 tablet at night,30 days,Store in cool place,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Powder,500 mg twice daily,3 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Capsule,500 mg twice daily,Continuous,Avoid driving,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Capsule,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Migraine,Mild,Child,Propranolol,Powder,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Acidity,Moderate,Elderly,Omeprazole,Tablet,500 mg twice daily,10 days,Avoid driving,FDA Approved
+Fever,Mild,Child,Paracetamol,Powder,1 tsp twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Asthma,Moderate,Adult,Budesonide,Powder,2 puffs as needed,30 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Child,Losartan,Capsule,500 mg twice daily,7 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Metformin,Capsule,2 puffs as needed,5 days,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Inhaler,250 mg once daily,10 days,Take after food,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Drops,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Acidity,Mild,Elderly,Omeprazole,Inhaler,500 mg twice daily,14 days,Store in cool place,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Powder,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Child,Guaifenesin,Powder,1 tsp twice daily,7 days,Do not exceed dosage,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Capsule,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Child,Metformin,Drops,1 tablet at night,14 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Severe,Adult,Ciprofloxacin,Drops,250 mg once daily,5 days,Take after food,FDA Approved
+Anemia,Severe,Adult,Folic Acid,Capsule,1 tablet at night,30 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Syrup,1 tsp twice daily,10 days,Do not exceed dosage,FDA Approved
+Anemia,Moderate,Adult,Iron Polysaccharide,Powder,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Fever,Mild,Child,Paracetamol,Drops,500 mg twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Cough,Mild,Adult,Bromhexine,Tablet,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Child,Budesonide,Tablet,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Ciprofloxacin,Capsule,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Diabetes,Mild,Child,Metformin,Inhaler,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Inhaler,250 mg once daily,30 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Drops,250 mg once daily,7 days,Avoid driving,FDA Approved
+Cough,Severe,Child,Bromhexine,Drops,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,5 ml thrice daily,3 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Syrup,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Folic Acid,Powder,5 ml thrice daily,3 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Elderly,Amlodipine,Powder,250 mg once daily,10 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Drops,5 ml thrice daily,7 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Powder,1 tablet at night,3 days,Avoid alcohol,FDA Approved
+Hypertension,Moderate,Elderly,Amlodipine,Powder,250 mg once daily,3 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,1 tsp twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Fever,Mild,Adult,Aspirin,Powder,2 puffs as needed,10 days,Avoid alcohol,FDA Approved
+Diabetes,Moderate,Adult,Glibenclamide,Tablet,250 mg once daily,Continuous,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Child,Nitrofurantoin,Capsule,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Inhaler,1 tablet at night,Continuous,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Tablet,500 mg twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Inhaler,2 puffs as needed,10 days,Store in cool place,FDA Approved
+Migraine,Moderate,Child,Sumatriptan,Powder,500 mg twice daily,30 days,Store in cool place,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,5 ml thrice daily,14 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Adult,Glibenclamide,Inhaler,2 puffs as needed,10 days,Store in cool place,FDA Approved
+Fever,Mild,Adult,Paracetamol,Inhaler,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Cough,Severe,Elderly,Dextromethorphan,Drops,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Child,Ciprofloxacin,Powder,1 tsp twice daily,10 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Amoxicillin,Drops,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Syrup,250 mg once daily,3 days,Take after food,FDA Approved
+Anemia,Severe,Elderly,Folic Acid,Powder,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Drops,1 tsp twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Powder,500 mg twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,250 mg once daily,14 days,Do not exceed dosage,FDA Approved
+Hypertension,Mild,Elderly,Losartan,Syrup,250 mg once daily,Continuous,Take after food,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Syrup,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Losartan,Drops,1 tsp twice daily,3 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Drops,500 mg twice daily,30 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Powder,2 puffs as needed,Continuous,Do not exceed dosage,FDA Approved
+Asthma,Moderate,Adult,Montelukast,Powder,2 puffs as needed,30 days,Take after food,FDA Approved
+Hypertension,Moderate,Elderly,Amlodipine,Syrup,250 mg once daily,10 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,1 tsp twice daily,30 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Powder,1 tablet at night,Continuous,Take after food,FDA Approved
+Acidity,Moderate,Child,Pantoprazole,Capsule,500 mg twice daily,7 days,Consult doctor if pregnant,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Syrup,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Metformin,Inhaler,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Common Cold,Severe,Adult,Cetirizine,Powder,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Elderly,Ranitidine,Capsule,2 puffs as needed,5 days,Take after food,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Capsule,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Tablet,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Tablet,250 mg once daily,3 days,Take after food,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Powder,250 mg once daily,3 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Insulin,Powder,1 tablet at night,3 days,Store in cool place,FDA Approved
+Diabetes,Moderate,Adult,Insulin,Inhaler,2 puffs as needed,5 days,Take after food,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Capsule,1 tsp twice daily,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Severe,Adult,Metformin,Powder,1 tsp twice daily,3 days,Take after food,FDA Approved
+Migraine,Mild,Child,Sumatriptan,Powder,1 tablet at night,10 days,Take after food,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Tablet,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Tablet,1 tablet at night,30 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Moderate,Elderly,Nitrofurantoin,Inhaler,250 mg once daily,Continuous,Avoid driving,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Drops,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Tablet,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Migraine,Moderate,Child,Sumatriptan,Tablet,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Syrup,2 puffs as needed,7 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Powder,2 puffs as needed,14 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Inhaler,1 tsp twice daily,Continuous,Do not exceed dosage,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Syrup,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Migraine,Moderate,Elderly,Propranolol,Drops,250 mg once daily,10 days,Store in cool place,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Powder,1 tsp twice daily,30 days,Store in cool place,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Tablet,250 mg once daily,10 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Powder,500 mg twice daily,30 days,Avoid driving,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Powder,500 mg twice daily,Continuous,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,5 ml thrice daily,5 days,Avoid alcohol,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,500 mg twice daily,7 days,Take after food,FDA Approved
+Fever,Mild,Child,Aspirin,Inhaler,5 ml thrice daily,30 days,Avoid driving,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Tablet,500 mg twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Severe,Adult,Amoxicillin,Syrup,250 mg once daily,14 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Pantoprazole,Inhaler,1 tsp twice daily,3 days,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,5 ml thrice daily,14 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Elderly,Metformin,Capsule,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Acidity,Mild,Elderly,Ranitidine,Syrup,500 mg twice daily,10 days,Store in cool place,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Syrup,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Diabetes,Moderate,Child,Metformin,Syrup,500 mg twice daily,14 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Capsule,1 tablet at night,30 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Syrup,250 mg once daily,5 days,Take after food,FDA Approved
+Asthma,Moderate,Adult,Budesonide,Tablet,500 mg twice daily,30 days,Store in cool place,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Tablet,2 puffs as needed,7 days,Do not exceed dosage,FDA Approved
+Hypertension,Severe,Elderly,Amlodipine,Syrup,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Adult,Metformin,Powder,2 puffs as needed,10 days,Do not exceed dosage,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Capsule,2 puffs as needed,3 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,2 puffs as needed,14 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Syrup,250 mg once daily,7 days,Avoid driving,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Inhaler,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Adult,Losartan,Capsule,1 tsp twice daily,30 days,Take after food,FDA Approved
+Common Cold,Moderate,Adult,Loratadine,Inhaler,250 mg once daily,5 days,Store in cool place,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Capsule,1 tablet at night,14 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Powder,500 mg twice daily,10 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Drops,500 mg twice daily,10 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,5 ml thrice daily,3 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Powder,1 tsp twice daily,30 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Drops,1 tsp twice daily,10 days,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Drops,250 mg once daily,Continuous,Take after food,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Tablet,500 mg twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Powder,1 tablet at night,10 days,Consult doctor if pregnant,FDA Approved
+Acidity,Moderate,Elderly,Ranitidine,Powder,2 puffs as needed,10 days,Take after food,FDA Approved
+Cough,Mild,Child,Guaifenesin,Syrup,1 tablet at night,30 days,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Inhaler,1 tsp twice daily,3 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Elderly,Sumatriptan,Powder,250 mg once daily,3 days,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Drops,250 mg once daily,5 days,Do not exceed dosage,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Syrup,2 puffs as needed,10 days,Do not exceed dosage,FDA Approved
+Diabetes,Severe,Child,Metformin,Powder,250 mg once daily,14 days,Do not exceed dosage,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,1 tablet at night,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Adult,Insulin,Tablet,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,5 ml thrice daily,7 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Severe,Elderly,Nitrofurantoin,Inhaler,5 ml thrice daily,3 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Capsule,2 puffs as needed,14 days,Avoid driving,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Inhaler,250 mg once daily,7 days,Avoid alcohol,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Powder,1 tablet at night,30 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Metformin,Capsule,500 mg twice daily,5 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Metformin,Drops,1 tsp twice daily,10 days,Take after food,FDA Approved
+Hypertension,Moderate,Child,Amlodipine,Capsule,500 mg twice daily,7 days,Consult doctor if pregnant,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Capsule,500 mg twice daily,10 days,Take after food,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,2 puffs as needed,30 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,2 puffs as needed,3 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Elderly,Omeprazole,Inhaler,500 mg twice daily,3 days,Store in cool place,FDA Approved
+Asthma,Mild,Elderly,Salbutamol,Tablet,250 mg once daily,10 days,Store in cool place,FDA Approved
+Common Cold,Mild,Elderly,Cetirizine,Drops,5 ml thrice daily,7 days,Take after food,FDA Approved
+Fever,Mild,Adult,Ibuprofen,Inhaler,1 tablet at night,7 days,Take after food,FDA Approved
+Hypertension,Mild,Elderly,Losartan,Tablet,250 mg once daily,30 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Inhaler,250 mg once daily,3 days,Avoid alcohol,FDA Approved
+Anemia,Moderate,Adult,Folic Acid,Syrup,500 mg twice daily,5 days,Take after food,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Drops,500 mg twice daily,3 days,Consult doctor if pregnant,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Capsule,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Losartan,Drops,2 puffs as needed,7 days,Store in cool place,FDA Approved
+Cough,Moderate,Child,Dextromethorphan,Powder,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Drops,2 puffs as needed,7 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Syrup,1 tsp twice daily,7 days,Avoid driving,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Tablet,1 tsp twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Powder,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Inhaler,1 tablet at night,7 days,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Capsule,250 mg once daily,Continuous,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Drops,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Aspirin,Tablet,2 puffs as needed,Continuous,Store in cool place,FDA Approved
+Fever,Severe,Adult,Paracetamol,Syrup,1 tablet at night,3 days,Do not exceed dosage,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Tablet,250 mg once daily,14 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Powder,1 tablet at night,5 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Drops,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Capsule,1 tsp twice daily,10 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,5 ml thrice daily,14 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,1 tsp twice daily,5 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Syrup,5 ml thrice daily,10 days,Avoid driving,FDA Approved
+Migraine,Mild,Child,Sumatriptan,Tablet,1 tsp twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Fever,Severe,Adult,Paracetamol,Tablet,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Tablet,500 mg twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Capsule,5 ml thrice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Tablet,1 tablet at night,7 days,Avoid driving,FDA Approved
+Cough,Moderate,Elderly,Dextromethorphan,Tablet,1 tsp twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Fever,Mild,Adult,Ibuprofen,Tablet,5 ml thrice daily,7 days,Avoid driving,FDA Approved
+Migraine,Moderate,Child,Amitriptyline,Drops,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,500 mg twice daily,7 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,1 tablet at night,30 days,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Inhaler,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Cough,Moderate,Child,Dextromethorphan,Tablet,1 tsp twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Capsule,2 puffs as needed,14 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Drops,1 tsp twice daily,5 days,Take after food,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Powder,500 mg twice daily,3 days,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Powder,1 tablet at night,3 days,Consult doctor if pregnant,FDA Approved
+Cough,Severe,Adult,Bromhexine,Inhaler,1 tsp twice daily,5 days,Avoid driving,FDA Approved
+Fever,Moderate,Adult,Aspirin,Capsule,1 tablet at night,Continuous,Avoid alcohol,FDA Approved
+Common Cold,Moderate,Adult,Loratadine,Capsule,5 ml thrice daily,3 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Drops,1 tsp twice daily,5 days,Take after food,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Drops,250 mg once daily,30 days,Store in cool place,FDA Approved
+Fever,Moderate,Elderly,Paracetamol,Syrup,250 mg once daily,3 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Budesonide,Drops,500 mg twice daily,3 days,Avoid driving,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Tablet,500 mg twice daily,7 days,Store in cool place,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Tablet,5 ml thrice daily,10 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Powder,1 tablet at night,3 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Montelukast,Drops,250 mg once daily,3 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Powder,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Diabetes,Moderate,Elderly,Glibenclamide,Tablet,1 tsp twice daily,7 days,Take after food,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Drops,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Powder,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Capsule,1 tsp twice daily,14 days,Store in cool place,FDA Approved
+Asthma,Moderate,Adult,Budesonide,Powder,250 mg once daily,10 days,Take after food,FDA Approved
+Anemia,Moderate,Adult,Iron Polysaccharide,Drops,500 mg twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Cough,Severe,Adult,Guaifenesin,Inhaler,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Metformin,Tablet,1 tsp twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Drops,500 mg twice daily,7 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Drops,5 ml thrice daily,5 days,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Inhaler,500 mg twice daily,7 days,Avoid driving,FDA Approved
+Asthma,Moderate,Elderly,Budesonide,Tablet,250 mg once daily,10 days,Do not exceed dosage,FDA Approved
+Acidity,Severe,Elderly,Omeprazole,Inhaler,2 puffs as needed,Continuous,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Powder,1 tablet at night,14 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Elderly,Nitrofurantoin,Powder,500 mg twice daily,10 days,Avoid driving,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Drops,500 mg twice daily,14 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Elderly,Ciprofloxacin,Inhaler,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Drops,1 tsp twice daily,5 days,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,1 tablet at night,14 days,Take after food,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Powder,1 tablet at night,5 days,Avoid driving,FDA Approved
+Common Cold,Severe,Adult,Cetirizine,Capsule,1 tablet at night,30 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,1 tablet at night,10 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Tablet,250 mg once daily,7 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Child,Dextromethorphan,Tablet,2 puffs as needed,7 days,Consult doctor if pregnant,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Capsule,500 mg twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Fever,Moderate,Elderly,Paracetamol,Tablet,1 tsp twice daily,10 days,Take after food,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Tablet,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Asthma,Moderate,Adult,Budesonide,Capsule,500 mg twice daily,5 days,Take after food,FDA Approved
+Fever,Severe,Child,Paracetamol,Drops,1 tsp twice daily,Continuous,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Child,Metformin,Capsule,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Powder,250 mg once daily,10 days,Store in cool place,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Syrup,5 ml thrice daily,10 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Child,Propranolol,Tablet,1 tablet at night,Continuous,Consult doctor if pregnant,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Powder,500 mg twice daily,3 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Amoxicillin,Drops,5 ml thrice daily,10 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Capsule,1 tsp twice daily,14 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Ciprofloxacin,Powder,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Child,Salbutamol,Tablet,1 tablet at night,Continuous,Take after food,FDA Approved
+Anemia,Mild,Adult,Iron Polysaccharide,Powder,1 tablet at night,5 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Syrup,1 tsp twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,1 tsp twice daily,3 days,Take after food,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Inhaler,500 mg twice daily,30 days,Take after food,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Syrup,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Syrup,1 tsp twice daily,14 days,Avoid alcohol,FDA Approved
+Asthma,Severe,Adult,Salbutamol,Syrup,500 mg twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Capsule,1 tsp twice daily,14 days,Avoid driving,FDA Approved
+Cough,Moderate,Elderly,Dextromethorphan,Drops,5 ml thrice daily,30 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Adult,Metformin,Inhaler,5 ml thrice daily,5 days,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Adult,Metformin,Capsule,500 mg twice daily,10 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Elderly,Ibuprofen,Syrup,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Severe,Child,Glibenclamide,Powder,1 tablet at night,5 days,Take after food,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Tablet,5 ml thrice daily,3 days,Store in cool place,FDA Approved
+Anemia,Severe,Adult,Folic Acid,Tablet,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Capsule,5 ml thrice daily,5 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Metformin,Tablet,5 ml thrice daily,5 days,Take after food,FDA Approved
+Diabetes,Moderate,Elderly,Metformin,Tablet,250 mg once daily,14 days,Consult doctor if pregnant,FDA Approved
+Urinary Tract Infection,Moderate,Child,Nitrofurantoin,Syrup,1 tsp twice daily,5 days,Take after food,FDA Approved
+Common Cold,Moderate,Elderly,Cetirizine,Tablet,250 mg once daily,3 days,Avoid driving,FDA Approved
+Fever,Mild,Child,Paracetamol,Capsule,1 tablet at night,14 days,Do not exceed dosage,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Drops,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Pseudoephedrine,Capsule,500 mg twice daily,Continuous,Store in cool place,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Inhaler,2 puffs as needed,5 days,Take after food,FDA Approved
+Cough,Severe,Adult,Guaifenesin,Inhaler,250 mg once daily,30 days,Store in cool place,FDA Approved
+Hypertension,Mild,Elderly,Losartan,Tablet,500 mg twice daily,10 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,1 tsp twice daily,14 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Syrup,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Adult,Metformin,Powder,250 mg once daily,14 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Powder,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Drops,1 tablet at night,3 days,Store in cool place,FDA Approved
+Anemia,Moderate,Child,Folic Acid,Syrup,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Drops,1 tsp twice daily,Continuous,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Capsule,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Fever,Mild,Adult,Ibuprofen,Syrup,2 puffs as needed,14 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,1 tablet at night,7 days,Avoid driving,FDA Approved
+Hypertension,Moderate,Adult,Hydrochlorothiazide,Powder,2 puffs as needed,Continuous,Take after food,FDA Approved
+Diabetes,Severe,Elderly,Metformin,Tablet,1 tablet at night,14 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Elderly,Loratadine,Drops,1 tsp twice daily,10 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Losartan,Capsule,1 tablet at night,5 days,Avoid driving,FDA Approved
+Cough,Severe,Adult,Dextromethorphan,Inhaler,250 mg once daily,7 days,Store in cool place,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Drops,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Inhaler,1 tablet at night,14 days,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Inhaler,2 puffs as needed,7 days,Take after food,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Drops,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Adult,Metformin,Tablet,1 tsp twice daily,10 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Capsule,1 tablet at night,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Severe,Child,Metformin,Tablet,250 mg once daily,10 days,Store in cool place,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Powder,500 mg twice daily,7 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Paracetamol,Drops,5 ml thrice daily,10 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Severe,Child,Metformin,Drops,5 ml thrice daily,30 days,Do not exceed dosage,FDA Approved
+Diabetes,Mild,Adult,Metformin,Tablet,1 tablet at night,7 days,Store in cool place,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,5 ml thrice daily,7 days,Take after food,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Tablet,1 tsp twice daily,5 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Drops,250 mg once daily,10 days,Take after food,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Capsule,1 tsp twice daily,Continuous,Take after food,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Drops,2 puffs as needed,30 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Drops,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Paracetamol,Drops,1 tsp twice daily,5 days,Avoid driving,FDA Approved
+Migraine,Severe,Child,Sumatriptan,Tablet,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Migraine,Moderate,Elderly,Sumatriptan,Tablet,500 mg twice daily,14 days,Store in cool place,FDA Approved
+Hypertension,Severe,Adult,Hydrochlorothiazide,Syrup,5 ml thrice daily,7 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Drops,1 tablet at night,5 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Folic Acid,Capsule,5 ml thrice daily,14 days,Avoid alcohol,FDA Approved
+Fever,Mild,Child,Ibuprofen,Tablet,1 tablet at night,10 days,Consult doctor if pregnant,FDA Approved
+Asthma,Mild,Adult,Budesonide,Powder,500 mg twice daily,3 days,Do not exceed dosage,FDA Approved
+Asthma,Moderate,Adult,Montelukast,Tablet,500 mg twice daily,Continuous,Do not exceed dosage,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Capsule,500 mg twice daily,30 days,Take after food,FDA Approved
+Diabetes,Mild,Adult,Metformin,Inhaler,5 ml thrice daily,Continuous,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Tablet,2 puffs as needed,10 days,Consult doctor if pregnant,FDA Approved
+Fever,Mild,Adult,Paracetamol,Tablet,2 puffs as needed,5 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Inhaler,250 mg once daily,14 days,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Pseudoephedrine,Tablet,500 mg twice daily,14 days,Store in cool place,FDA Approved
+Diabetes,Mild,Child,Glibenclamide,Drops,1 tablet at night,3 days,Avoid alcohol,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Powder,500 mg twice daily,14 days,Store in cool place,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Tablet,1 tsp twice daily,5 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Amitriptyline,Powder,1 tsp twice daily,7 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Severe,Adult,Metformin,Tablet,5 ml thrice daily,14 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Loratadine,Capsule,250 mg once daily,14 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Tablet,1 tablet at night,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Capsule,500 mg twice daily,5 days,Avoid alcohol,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Drops,5 ml thrice daily,10 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Child,Pantoprazole,Syrup,1 tablet at night,3 days,Avoid driving,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Drops,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Anemia,Moderate,Child,Ferrous Sulfate,Inhaler,1 tablet at night,3 days,Avoid driving,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Capsule,1 tablet at night,3 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Tablet,500 mg twice daily,10 days,Do not exceed dosage,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Drops,1 tablet at night,10 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Adult,Pseudoephedrine,Capsule,500 mg twice daily,14 days,Take after food,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Capsule,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Cough,Mild,Elderly,Dextromethorphan,Tablet,1 tablet at night,14 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Capsule,500 mg twice daily,30 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Folic Acid,Inhaler,1 tablet at night,5 days,Take after food,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Capsule,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Anemia,Severe,Adult,Ferrous Sulfate,Drops,5 ml thrice daily,7 days,Avoid driving,FDA Approved
+Fever,Severe,Adult,Paracetamol,Tablet,1 tsp twice daily,7 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Syrup,500 mg twice daily,5 days,Avoid alcohol,FDA Approved
+Cough,Mild,Elderly,Dextromethorphan,Capsule,250 mg once daily,30 days,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Paracetamol,Syrup,1 tsp twice daily,Continuous,Avoid driving,FDA Approved
+Fever,Moderate,Child,Paracetamol,Capsule,500 mg twice daily,10 days,Do not exceed dosage,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Powder,5 ml thrice daily,10 days,Take after food,FDA Approved
+Hypertension,Mild,Child,Amlodipine,Capsule,1 tablet at night,10 days,Take after food,FDA Approved
+Migraine,Moderate,Child,Propranolol,Tablet,2 puffs as needed,5 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Drops,250 mg once daily,30 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Moderate,Child,Metformin,Tablet,5 ml thrice daily,5 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Syrup,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Iron Polysaccharide,Capsule,500 mg twice daily,10 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Inhaler,5 ml thrice daily,3 days,Store in cool place,FDA Approved
+Migraine,Mild,Adult,Propranolol,Powder,250 mg once daily,14 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Inhaler,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Drops,500 mg twice daily,10 days,Avoid driving,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Inhaler,250 mg once daily,5 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Drops,5 ml thrice daily,5 days,Store in cool place,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Inhaler,2 puffs as needed,Continuous,Take after food,FDA Approved
+Migraine,Moderate,Elderly,Sumatriptan,Drops,1 tablet at night,3 days,Store in cool place,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Syrup,2 puffs as needed,Continuous,Consult doctor if pregnant,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Tablet,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Fever,Mild,Elderly,Paracetamol,Tablet,500 mg twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Powder,1 tablet at night,3 days,Do not exceed dosage,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Drops,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Asthma,Mild,Adult,Budesonide,Syrup,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Metformin,Powder,1 tsp twice daily,Continuous,Avoid alcohol,FDA Approved
+Acidity,Moderate,Adult,Ranitidine,Syrup,2 puffs as needed,14 days,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Elderly,Cetirizine,Inhaler,250 mg once daily,7 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Capsule,250 mg once daily,14 days,Store in cool place,FDA Approved
+Fever,Moderate,Elderly,Paracetamol,Capsule,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Acidity,Mild,Child,Ranitidine,Tablet,250 mg once daily,Continuous,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Syrup,2 puffs as needed,14 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Ciprofloxacin,Capsule,5 ml thrice daily,5 days,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Elderly,Salbutamol,Tablet,250 mg once daily,7 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Pantoprazole,Powder,5 ml thrice daily,5 days,Take after food,FDA Approved
+Cough,Severe,Child,Dextromethorphan,Powder,250 mg once daily,10 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Syrup,5 ml thrice daily,5 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Tablet,2 puffs as needed,10 days,Take after food,FDA Approved
+Acidity,Severe,Adult,Pantoprazole,Powder,1 tsp twice daily,7 days,Store in cool place,FDA Approved
+Diabetes,Severe,Adult,Metformin,Powder,1 tablet at night,5 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Child,Omeprazole,Tablet,250 mg once daily,30 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Inhaler,5 ml thrice daily,3 days,Consult doctor if pregnant,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Syrup,250 mg once daily,3 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Severe,Adult,Ciprofloxacin,Powder,2 puffs as needed,5 days,Avoid driving,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Drops,5 ml thrice daily,10 days,Take after food,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Syrup,5 ml thrice daily,10 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Elderly,Cetirizine,Inhaler,2 puffs as needed,7 days,Take after food,FDA Approved
+Migraine,Moderate,Adult,Propranolol,Powder,500 mg twice daily,5 days,Take after food,FDA Approved
+Diabetes,Severe,Elderly,Metformin,Tablet,1 tsp twice daily,Continuous,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Capsule,1 tsp twice daily,10 days,Store in cool place,FDA Approved
+Anemia,Mild,Child,Folic Acid,Inhaler,5 ml thrice daily,14 days,Avoid driving,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Inhaler,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Asthma,Mild,Child,Salbutamol,Drops,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Capsule,500 mg twice daily,3 days,Consult doctor if pregnant,FDA Approved
+Acidity,Moderate,Child,Pantoprazole,Powder,2 puffs as needed,14 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Tablet,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Capsule,5 ml thrice daily,10 days,Store in cool place,FDA Approved
+Cough,Mild,Child,Dextromethorphan,Drops,5 ml thrice daily,3 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Moderate,Elderly,Metformin,Drops,250 mg once daily,Continuous,Avoid alcohol,FDA Approved
+Anemia,Severe,Adult,Folic Acid,Drops,5 ml thrice daily,7 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Tablet,250 mg once daily,14 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Severe,Adult,Losartan,Capsule,500 mg twice daily,5 days,Take after food,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Powder,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Ciprofloxacin,Inhaler,2 puffs as needed,3 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Bromhexine,Syrup,250 mg once daily,Continuous,Avoid driving,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Syrup,500 mg twice daily,30 days,Avoid alcohol,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Syrup,250 mg once daily,5 days,Take after food,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Tablet,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Fever,Moderate,Child,Paracetamol,Powder,500 mg twice daily,10 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Adult,Metformin,Tablet,500 mg twice daily,14 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Iron Polysaccharide,Tablet,250 mg once daily,Continuous,Store in cool place,FDA Approved
+Diabetes,Mild,Adult,Insulin,Powder,1 tablet at night,14 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Child,Nitrofurantoin,Tablet,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Asthma,Moderate,Adult,Montelukast,Tablet,1 tablet at night,3 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Ciprofloxacin,Capsule,2 puffs as needed,30 days,Avoid alcohol,FDA Approved
+Cough,Mild,Elderly,Guaifenesin,Powder,250 mg once daily,10 days,Avoid alcohol,FDA Approved
+Hypertension,Mild,Child,Amlodipine,Syrup,1 tablet at night,7 days,Do not exceed dosage,FDA Approved
+Fever,Mild,Adult,Paracetamol,Inhaler,1 tsp twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Inhaler,250 mg once daily,Continuous,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Pantoprazole,Drops,2 puffs as needed,30 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,2 puffs as needed,10 days,Store in cool place,FDA Approved
+Anemia,Severe,Adult,Iron Polysaccharide,Capsule,500 mg twice daily,7 days,Take after food,FDA Approved
+Hypertension,Mild,Adult,Amlodipine,Capsule,2 puffs as needed,30 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Adult,Glibenclamide,Drops,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Anemia,Moderate,Elderly,Iron Polysaccharide,Capsule,2 puffs as needed,3 days,Avoid alcohol,FDA Approved
+Diabetes,Severe,Adult,Metformin,Tablet,500 mg twice daily,30 days,Avoid alcohol,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Powder,1 tablet at night,7 days,Take after food,FDA Approved
+Diabetes,Mild,Child,Metformin,Powder,2 puffs as needed,Continuous,Avoid driving,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Powder,5 ml thrice daily,Continuous,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Severe,Adult,Nitrofurantoin,Tablet,2 puffs as needed,10 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Child,Sumatriptan,Drops,5 ml thrice daily,30 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Tablet,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,1 tsp twice daily,3 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Elderly,Metformin,Syrup,5 ml thrice daily,7 days,Avoid alcohol,FDA Approved
+Fever,Mild,Child,Paracetamol,Drops,1 tsp twice daily,3 days,Store in cool place,FDA Approved
+Hypertension,Severe,Adult,Amlodipine,Inhaler,5 ml thrice daily,3 days,Store in cool place,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Drops,500 mg twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Inhaler,1 tablet at night,Continuous,Avoid driving,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Inhaler,1 tsp twice daily,3 days,Consult doctor if pregnant,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Inhaler,500 mg twice daily,30 days,Store in cool place,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Syrup,250 mg once daily,14 days,Consult doctor if pregnant,FDA Approved
+Hypertension,Moderate,Adult,Hydrochlorothiazide,Tablet,1 tsp twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Elderly,Metformin,Capsule,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Powder,2 puffs as needed,10 days,Take after food,FDA Approved
+Hypertension,Mild,Adult,Losartan,Syrup,2 puffs as needed,30 days,Do not exceed dosage,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Inhaler,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Capsule,1 tsp twice daily,10 days,Take after food,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Inhaler,1 tsp twice daily,30 days,Store in cool place,FDA Approved
+Fever,Mild,Adult,Paracetamol,Capsule,1 tablet at night,30 days,Consult doctor if pregnant,FDA Approved
+Migraine,Severe,Elderly,Sumatriptan,Drops,250 mg once daily,Continuous,Avoid driving,FDA Approved
+Diabetes,Mild,Adult,Glibenclamide,Powder,250 mg once daily,10 days,Take after food,FDA Approved
+Common Cold,Moderate,Child,Cetirizine,Syrup,2 puffs as needed,10 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Elderly,Sumatriptan,Syrup,250 mg once daily,3 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Severe,Adult,Metformin,Drops,2 puffs as needed,Continuous,Avoid alcohol,FDA Approved
+Fever,Moderate,Child,Ibuprofen,Tablet,2 puffs as needed,7 days,Store in cool place,FDA Approved
+Common Cold,Moderate,Adult,Cetirizine,Capsule,500 mg twice daily,14 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Amoxicillin,Powder,5 ml thrice daily,10 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Powder,1 tablet at night,10 days,Store in cool place,FDA Approved
+Asthma,Mild,Adult,Montelukast,Capsule,5 ml thrice daily,10 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Child,Glibenclamide,Drops,500 mg twice daily,7 days,Do not exceed dosage,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Capsule,5 ml thrice daily,10 days,Store in cool place,FDA Approved
+Hypertension,Severe,Child,Losartan,Powder,500 mg twice daily,Continuous,Store in cool place,FDA Approved
+Fever,Mild,Adult,Paracetamol,Powder,2 puffs as needed,7 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Hydrochlorothiazide,Capsule,2 puffs as needed,10 days,Avoid alcohol,FDA Approved
+Migraine,Mild,Elderly,Amitriptyline,Capsule,5 ml thrice daily,5 days,Take after food,FDA Approved
+Acidity,Moderate,Elderly,Omeprazole,Inhaler,500 mg twice daily,7 days,Avoid alcohol,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Drops,2 puffs as needed,Continuous,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Powder,1 tablet at night,Continuous,Do not exceed dosage,FDA Approved
+Hypertension,Mild,Child,Amlodipine,Drops,250 mg once daily,30 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Powder,500 mg twice daily,3 days,Take after food,FDA Approved
+Asthma,Moderate,Elderly,Salbutamol,Capsule,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Hypertension,Mild,Elderly,Amlodipine,Capsule,1 tablet at night,14 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Mild,Adult,Metformin,Inhaler,1 tsp twice daily,5 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Aspirin,Tablet,2 puffs as needed,5 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Capsule,500 mg twice daily,7 days,Take after food,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Inhaler,1 tablet at night,10 days,Avoid alcohol,FDA Approved
+Asthma,Severe,Adult,Budesonide,Syrup,5 ml thrice daily,30 days,Avoid driving,FDA Approved
+Migraine,Moderate,Elderly,Sumatriptan,Syrup,1 tablet at night,30 days,Take after food,FDA Approved
+Migraine,Mild,Adult,Sumatriptan,Syrup,250 mg once daily,14 days,Avoid driving,FDA Approved
+Asthma,Mild,Adult,Salbutamol,Tablet,2 puffs as needed,5 days,Consult doctor if pregnant,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Drops,1 tsp twice daily,7 days,Avoid alcohol,FDA Approved
+Common Cold,Severe,Child,Cetirizine,Inhaler,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Anemia,Mild,Adult,Folic Acid,Powder,1 tsp twice daily,10 days,Consult doctor if pregnant,FDA Approved
+Migraine,Severe,Child,Sumatriptan,Tablet,1 tsp twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Cough,Severe,Elderly,Dextromethorphan,Capsule,500 mg twice daily,7 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Capsule,2 puffs as needed,Continuous,Consult doctor if pregnant,FDA Approved
+Hypertension,Severe,Adult,Hydrochlorothiazide,Powder,5 ml thrice daily,14 days,Consult doctor if pregnant,FDA Approved
+Migraine,Severe,Adult,Propranolol,Capsule,1 tsp twice daily,Continuous,Store in cool place,FDA Approved
+Acidity,Mild,Child,Omeprazole,Tablet,2 puffs as needed,7 days,Take after food,FDA Approved
+Acidity,Severe,Elderly,Omeprazole,Tablet,2 puffs as needed,7 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Capsule,500 mg twice daily,7 days,Avoid alcohol,FDA Approved
+Asthma,Mild,Adult,Budesonide,Powder,5 ml thrice daily,14 days,Store in cool place,FDA Approved
+Anemia,Mild,Elderly,Ferrous Sulfate,Powder,250 mg once daily,10 days,Avoid alcohol,FDA Approved
+Asthma,Severe,Adult,Budesonide,Tablet,5 ml thrice daily,30 days,Store in cool place,FDA Approved
+Common Cold,Severe,Adult,Cetirizine,Syrup,250 mg once daily,3 days,Avoid alcohol,FDA Approved
+Acidity,Mild,Adult,Ranitidine,Syrup,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Hypertension,Severe,Adult,Hydrochlorothiazide,Syrup,1 tablet at night,30 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Child,Dextromethorphan,Syrup,500 mg twice daily,30 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Adult,Amoxicillin,Capsule,250 mg once daily,Continuous,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Inhaler,5 ml thrice daily,30 days,Store in cool place,FDA Approved
+Cough,Mild,Adult,Dextromethorphan,Syrup,1 tablet at night,14 days,Take after food,FDA Approved
+Hypertension,Moderate,Adult,Amlodipine,Inhaler,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Syrup,1 tsp twice daily,5 days,Avoid driving,FDA Approved
+Migraine,Severe,Adult,Sumatriptan,Drops,250 mg once daily,30 days,Store in cool place,FDA Approved
+Cough,Moderate,Adult,Bromhexine,Tablet,5 ml thrice daily,10 days,Avoid driving,FDA Approved
+Common Cold,Mild,Adult,Pseudoephedrine,Capsule,1 tablet at night,7 days,Take after food,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Tablet,1 tsp twice daily,3 days,Do not exceed dosage,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Syrup,5 ml thrice daily,7 days,Do not exceed dosage,FDA Approved
+Common Cold,Moderate,Child,Loratadine,Inhaler,250 mg once daily,Continuous,Take after food,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Syrup,1 tsp twice daily,30 days,Avoid driving,FDA Approved
+Acidity,Severe,Adult,Omeprazole,Capsule,250 mg once daily,5 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Tablet,500 mg twice daily,10 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Paracetamol,Drops,1 tablet at night,14 days,Store in cool place,FDA Approved
+Acidity,Moderate,Adult,Omeprazole,Drops,1 tablet at night,30 days,Store in cool place,FDA Approved
+Migraine,Mild,Child,Propranolol,Capsule,500 mg twice daily,Continuous,Avoid alcohol,FDA Approved
+Asthma,Moderate,Adult,Budesonide,Drops,250 mg once daily,10 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Mild,Adult,Nitrofurantoin,Inhaler,2 puffs as needed,3 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Bromhexine,Inhaler,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Anemia,Moderate,Adult,Ferrous Sulfate,Inhaler,500 mg twice daily,7 days,Avoid alcohol,FDA Approved
+Common Cold,Severe,Adult,Cetirizine,Inhaler,1 tablet at night,14 days,Do not exceed dosage,FDA Approved
+Urinary Tract Infection,Mild,Child,Amoxicillin,Powder,1 tsp twice daily,30 days,Do not exceed dosage,FDA Approved
+Acidity,Mild,Child,Omeprazole,Powder,5 ml thrice daily,14 days,Avoid alcohol,FDA Approved
+Diabetes,Mild,Adult,Glibenclamide,Inhaler,1 tsp twice daily,30 days,Consult doctor if pregnant,FDA Approved
+Acidity,Mild,Child,Omeprazole,Capsule,2 puffs as needed,7 days,Avoid driving,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Powder,1 tablet at night,30 days,Avoid driving,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Inhaler,1 tablet at night,30 days,Store in cool place,FDA Approved
+Hypertension,Moderate,Adult,Losartan,Powder,250 mg once daily,7 days,Store in cool place,FDA Approved
+Common Cold,Mild,Child,Cetirizine,Powder,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Acidity,Mild,Adult,Omeprazole,Tablet,5 ml thrice daily,7 days,Consult doctor if pregnant,FDA Approved
+Cough,Moderate,Elderly,Dextromethorphan,Tablet,5 ml thrice daily,10 days,Avoid alcohol,FDA Approved
+Anemia,Mild,Adult,Ferrous Sulfate,Syrup,5 ml thrice daily,Continuous,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Powder,1 tsp twice daily,30 days,Avoid alcohol,FDA Approved
+Fever,Mild,Adult,Aspirin,Tablet,500 mg twice daily,Continuous,Do not exceed dosage,FDA Approved
+Anemia,Moderate,Elderly,Folic Acid,Tablet,1 tsp twice daily,3 days,Take after food,FDA Approved
+Common Cold,Mild,Elderly,Loratadine,Syrup,1 tablet at night,10 days,Do not exceed dosage,FDA Approved
+Acidity,Moderate,Child,Ranitidine,Syrup,250 mg once daily,3 days,Take after food,FDA Approved
+Acidity,Mild,Adult,Pantoprazole,Inhaler,5 ml thrice daily,7 days,Do not exceed dosage,FDA Approved
+Cough,Moderate,Adult,Dextromethorphan,Syrup,1 tablet at night,30 days,Take after food,FDA Approved
+Cough,Moderate,Adult,Guaifenesin,Capsule,2 puffs as needed,10 days,Avoid driving,FDA Approved
+Acidity,Moderate,Adult,Pantoprazole,Tablet,2 puffs as needed,5 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Mild,Child,Amoxicillin,Capsule,2 puffs as needed,3 days,Avoid driving,FDA Approved
+Fever,Severe,Adult,Paracetamol,Tablet,1 tablet at night,30 days,Store in cool place,FDA Approved
+Urinary Tract Infection,Severe,Adult,Amoxicillin,Drops,1 tsp twice daily,Continuous,Consult doctor if pregnant,FDA Approved
+Hypertension,Mild,Child,Hydrochlorothiazide,Powder,1 tsp twice daily,5 days,Store in cool place,FDA Approved
+Migraine,Moderate,Adult,Sumatriptan,Powder,1 tablet at night,10 days,Store in cool place,FDA Approved
+Hypertension,Mild,Adult,Losartan,Capsule,5 ml thrice daily,3 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Capsule,1 tsp twice daily,14 days,Consult doctor if pregnant,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Drops,250 mg once daily,3 days,Avoid alcohol,FDA Approved
+Urinary Tract Infection,Moderate,Adult,Nitrofurantoin,Drops,2 puffs as needed,14 days,Avoid alcohol,FDA Approved
+Fever,Moderate,Adult,Ibuprofen,Tablet,500 mg twice daily,Continuous,Store in cool place,FDA Approved
+Common Cold,Mild,Adult,Cetirizine,Syrup,250 mg once daily,Continuous,Store in cool place,FDA Approved
+Anemia,Moderate,Elderly,Ferrous Sulfate,Powder,1 tsp twice daily,5 days,Consult doctor if pregnant,FDA Approved
+Diabetes,Moderate,Adult,Metformin,Drops,250 mg once daily,30 days,Avoid driving,FDA Approved
+Urinary Tract Infection,Moderate,Child,Ciprofloxacin,Capsule,5 ml thrice daily,10 days,Avoid alcohol,FDA Approved
+Cough,Mild,Adult,Guaifenesin,Tablet,2 puffs as needed,5 days,Avoid driving,FDA Approved
+Asthma,Moderate,Adult,Salbutamol,Powder,1 tsp twice daily,14 days,Avoid driving,FDA Approved

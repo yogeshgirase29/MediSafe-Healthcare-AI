@@ -1,0 +1,1101 @@
+Disease_Name,Disease_Severity,Age_Group,Medicine_Name,Dosage_Form,Recommended_Dosage,Treatment_Duration,Precautions,Medicine_Approval_Status
+Anxiety,Mild,Child,Argentum nitricum,Capsule,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Syrup,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Moderate,Elderly,Rhus tox,Drops,5 ml thrice daily,Continuous,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,5 ml thrice daily,Continuous,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Adult,Histaminum,Capsule,1 tsp twice daily,30 days,Take after food,HPUS Listed
+Fever,Moderate,Child,Belladonna,Inhaler,500 mg twice daily,3 days,Take after food,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Capsule,2 puffs as needed,5 days,Store in cool place,HPUS Listed
+Cough,Mild,Adult,Drosera,Powder,1 tablet at night,14 days,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,250 mg once daily,3 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Powder,2 puffs as needed,14 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Powder,500 mg twice daily,3 days,Take after food,HPUS Listed
+Cough,Moderate,Adult,Drosera,Capsule,2 puffs as needed,Continuous,Store in cool place,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Inhaler,500 mg twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Powder,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Elderly,Allium cepa,Powder,2 puffs as needed,10 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Child,Belladonna,Tablet,1 tsp twice daily,7 days,Avoid alcohol,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Syrup,2 puffs as needed,3 days,Take after food,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Arsenicum album,Tablet,1 tablet at night,7 days,Take after food,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Tablet,500 mg twice daily,7 days,Store in cool place,HPUS Listed
+Cough,Severe,Adult,Drosera,Syrup,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Aconite,Drops,5 ml thrice daily,10 days,Avoid alcohol,HPUS Listed
+Fever,Moderate,Adult,Aconite,Capsule,1 tsp twice daily,14 days,Do not exceed dosage,HPUS Listed
+Cold,Mild,Child,Allium cepa,Syrup,5 ml thrice daily,3 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Syrup,5 ml thrice daily,Continuous,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Child,Oscillococcinum,Powder,1 tablet at night,14 days,Consult doctor if pregnant,HPUS Listed
+Flu,Mild,Child,Gelsemium,Tablet,5 ml thrice daily,10 days,Avoid alcohol,HPUS Listed
+Headache,Mild,Child,Belladonna,Powder,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Syrup,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Powder,1 tablet at night,Continuous,Avoid alcohol,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,1 tablet at night,14 days,Take after food,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Drops,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Capsule,1 tsp twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Cough,Severe,Adult,Drosera,Syrup,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Adult,Gelsemium,Tablet,500 mg twice daily,10 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Allium cepa,Drops,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Allergy,Severe,Child,Arsenicum album,Drops,500 mg twice daily,30 days,Avoid alcohol,HPUS Listed
+Back Pain,Severe,Adult,Rhus tox,Powder,500 mg twice daily,30 days,Take after food,HPUS Listed
+Cold,Mild,Child,Gelsemium,Capsule,2 puffs as needed,5 days,Take after food,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Drops,1 tsp twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Elderly,Rhus tox,Inhaler,5 ml thrice daily,5 days,Store in cool place,HPUS Listed
+Allergy,Mild,Elderly,Arsenicum album,Syrup,500 mg twice daily,10 days,Avoid driving,HPUS Listed
+Cough,Mild,Elderly,Drosera,Inhaler,1 tsp twice daily,7 days,Take after food,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,2 puffs as needed,Continuous,Avoid alcohol,HPUS Listed
+Arthritis,Moderate,Adult,Bryonia,Syrup,5 ml thrice daily,30 days,Take after food,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Inhaler,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Allergy,Moderate,Child,Arsenicum album,Drops,2 puffs as needed,10 days,Take after food,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Drops,5 ml thrice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Drops,2 puffs as needed,3 days,Avoid alcohol,HPUS Listed
+Migraine,Severe,Child,Bryonia,Syrup,250 mg once daily,Continuous,Store in cool place,HPUS Listed
+Flu,Severe,Adult,Arsenicum album,Capsule,1 tablet at night,10 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Child,Belladonna,Powder,2 puffs as needed,14 days,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Drops,2 puffs as needed,7 days,Store in cool place,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Powder,1 tsp twice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Syrup,500 mg twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Adult,Belladonna,Capsule,2 puffs as needed,14 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Tablet,250 mg once daily,10 days,Avoid driving,HPUS Listed
+Flu,Moderate,Child,Oscillococcinum,Powder,2 puffs as needed,30 days,Take after food,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Syrup,500 mg twice daily,14 days,Avoid driving,HPUS Listed
+Cold,Severe,Adult,Aconite,Capsule,500 mg twice daily,7 days,Take after food,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Powder,1 tablet at night,30 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Allergy,Mild,Elderly,Allium cepa,Powder,1 tsp twice daily,5 days,Do not exceed dosage,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Inhaler,1 tsp twice daily,30 days,Take after food,HPUS Listed
+Fever,Moderate,Elderly,Ferrum Phos,Drops,5 ml thrice daily,5 days,Take after food,HPUS Listed
+Cough,Mild,Child,Drosera,Capsule,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,500 mg twice daily,30 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Drops,2 puffs as needed,5 days,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Capsule,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Elderly,Drosera,Capsule,250 mg once daily,3 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Syrup,1 tablet at night,14 days,Store in cool place,HPUS Listed
+Flu,Severe,Adult,Arsenicum album,Powder,1 tsp twice daily,7 days,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Bryonia,Capsule,2 puffs as needed,10 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Powder,250 mg once daily,30 days,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Tablet,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Cough,Moderate,Adult,Antimonium,Tablet,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Capsule,1 tsp twice daily,5 days,Take after food,HPUS Listed
+Allergy,Moderate,Adult,Histaminum,Tablet,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Syrup,1 tsp twice daily,5 days,Take after food,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Capsule,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Drops,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Headache,Severe,Adult,Belladonna,Syrup,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Fever,Severe,Adult,Ferrum Phos,Drops,500 mg twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Cough,Moderate,Adult,Bryonia,Tablet,1 tablet at night,5 days,Avoid driving,HPUS Listed
+Cold,Moderate,Elderly,Allium cepa,Tablet,1 tablet at night,30 days,Do not exceed dosage,HPUS Listed
+Fever,Mild,Elderly,Ferrum Phos,Drops,500 mg twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Gelsemium,Capsule,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Tablet,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Flu,Mild,Child,Gelsemium,Tablet,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Fever,Moderate,Child,Belladonna,Capsule,2 puffs as needed,7 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Belladonna,Capsule,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Cold,Mild,Child,Allium cepa,Capsule,5 ml thrice daily,7 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Inhaler,1 tablet at night,3 days,Do not exceed dosage,HPUS Listed
+Fever,Mild,Child,Belladonna,Inhaler,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Powder,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Child,Drosera,Tablet,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Elderly,Gelsemium,Syrup,1 tablet at night,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Severe,Adult,Drosera,Capsule,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Allergy,Mild,Child,Arsenicum album,Capsule,1 tablet at night,3 days,Take after food,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,1 tablet at night,30 days,Store in cool place,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,1 tablet at night,5 days,Consult doctor if pregnant,HPUS Listed
+Flu,Severe,Child,Gelsemium,Syrup,500 mg twice daily,10 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Syrup,5 ml thrice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Syrup,5 ml thrice daily,14 days,Store in cool place,HPUS Listed
+Cough,Severe,Elderly,Drosera,Tablet,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Back Pain,Severe,Adult,Rhus tox,Powder,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Flu,Mild,Child,Oscillococcinum,Tablet,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Drops,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,500 mg twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Adult,Arsenicum album,Syrup,250 mg once daily,Continuous,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Elderly,Argentum nitricum,Drops,250 mg once daily,Continuous,Take after food,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Inhaler,1 tablet at night,Continuous,Avoid alcohol,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Tablet,1 tablet at night,30 days,Take after food,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Capsule,500 mg twice daily,10 days,Avoid alcohol,HPUS Listed
+Cold,Moderate,Elderly,Aconite,Powder,2 puffs as needed,Continuous,Consult doctor if pregnant,HPUS Listed
+Back Pain,Severe,Elderly,Rhus tox,Powder,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Child,Rhus tox,Tablet,250 mg once daily,30 days,Avoid driving,HPUS Listed
+Headache,Mild,Adult,Belladonna,Syrup,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Back Pain,Moderate,Elderly,Bryonia,Inhaler,5 ml thrice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Cough,Moderate,Child,Bryonia,Tablet,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Powder,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Migraine,Mild,Elderly,Belladonna,Drops,250 mg once daily,5 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Child,Belladonna,Syrup,5 ml thrice daily,10 days,Avoid alcohol,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Drops,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Drops,500 mg twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Drops,500 mg twice daily,14 days,Store in cool place,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Tablet,500 mg twice daily,5 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Arsenicum album,Powder,500 mg twice daily,Continuous,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Drops,250 mg once daily,3 days,Take after food,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Inhaler,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Inhaler,1 tsp twice daily,30 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Drops,500 mg twice daily,3 days,Take after food,HPUS Listed
+Anxiety,Moderate,Child,Gelsemium,Inhaler,250 mg once daily,7 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Powder,250 mg once daily,10 days,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Tablet,500 mg twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Powder,5 ml thrice daily,14 days,Do not exceed dosage,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Tablet,1 tablet at night,10 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Moderate,Adult,Natrum muriaticum,Powder,1 tsp twice daily,30 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Syrup,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Natrum muriaticum,Inhaler,500 mg twice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Powder,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Moderate,Child,Belladonna,Syrup,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Cough,Moderate,Child,Bryonia,Capsule,5 ml thrice daily,Continuous,Take after food,HPUS Listed
+Back Pain,Severe,Adult,Rhus tox,Inhaler,1 tsp twice daily,30 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Inhaler,500 mg twice daily,30 days,Avoid driving,HPUS Listed
+Cough,Severe,Adult,Bryonia,Drops,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Allergy,Severe,Adult,Arsenicum album,Drops,250 mg once daily,14 days,Take after food,HPUS Listed
+Flu,Severe,Adult,Arsenicum album,Tablet,5 ml thrice daily,10 days,Store in cool place,HPUS Listed
+Cold,Moderate,Elderly,Aconite,Inhaler,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Adult,Drosera,Capsule,2 puffs as needed,30 days,Consult doctor if pregnant,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Inhaler,1 tablet at night,3 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,250 mg once daily,Continuous,Take after food,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Tablet,5 ml thrice daily,Continuous,Take after food,HPUS Listed
+Anxiety,Moderate,Child,Argentum nitricum,Syrup,1 tsp twice daily,7 days,Store in cool place,HPUS Listed
+Fever,Mild,Adult,Ferrum Phos,Capsule,500 mg twice daily,3 days,Store in cool place,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Tablet,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Flu,Mild,Child,Gelsemium,Powder,5 ml thrice daily,Continuous,Avoid alcohol,HPUS Listed
+Fever,Mild,Adult,Aconite,Drops,5 ml thrice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,250 mg once daily,Continuous,Store in cool place,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Inhaler,1 tablet at night,5 days,Avoid alcohol,HPUS Listed
+Headache,Mild,Adult,Belladonna,Inhaler,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Anxiety,Severe,Child,Argentum nitricum,Capsule,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Drosera,Tablet,1 tablet at night,Continuous,Avoid driving,HPUS Listed
+Arthritis,Severe,Elderly,Calcarea,Powder,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Elderly,Argentum nitricum,Syrup,500 mg twice daily,5 days,Take after food,HPUS Listed
+Allergy,Mild,Child,Arsenicum album,Syrup,5 ml thrice daily,30 days,Take after food,HPUS Listed
+Allergy,Mild,Elderly,Arsenicum album,Powder,500 mg twice daily,10 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Elderly,Allium cepa,Tablet,500 mg twice daily,14 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Powder,1 tablet at night,7 days,Take after food,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,250 mg once daily,5 days,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Powder,500 mg twice daily,30 days,Take after food,HPUS Listed
+Migraine,Mild,Child,Belladonna,Powder,500 mg twice daily,Continuous,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Capsule,1 tablet at night,7 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Inhaler,1 tablet at night,Continuous,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Capsule,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Syrup,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Drops,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Allergy,Mild,Elderly,Allium cepa,Powder,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Elderly,Drosera,Syrup,250 mg once daily,14 days,Avoid driving,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Drops,2 puffs as needed,10 days,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Inhaler,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Child,Bryonia,Inhaler,1 tsp twice daily,5 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Headache,Severe,Adult,Belladonna,Tablet,1 tablet at night,7 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Child,Belladonna,Capsule,500 mg twice daily,14 days,Take after food,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Tablet,1 tsp twice daily,14 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Powder,500 mg twice daily,5 days,Take after food,HPUS Listed
+Fever,Severe,Adult,Ferrum Phos,Drops,1 tablet at night,5 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Syrup,1 tsp twice daily,7 days,Store in cool place,HPUS Listed
+Cough,Moderate,Adult,Drosera,Powder,1 tsp twice daily,14 days,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Powder,1 tsp twice daily,10 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Elderly,Rhus tox,Powder,2 puffs as needed,10 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,1 tsp twice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Elderly,Arnica,Drops,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Powder,1 tsp twice daily,10 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Adult,Bryonia,Syrup,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Arthritis,Moderate,Child,Calcarea,Syrup,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Syrup,500 mg twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Inhaler,2 puffs as needed,30 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Belladonna,Tablet,250 mg once daily,7 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Adult,Bryonia,Syrup,250 mg once daily,14 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Powder,5 ml thrice daily,5 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Child,Arsenicum album,Powder,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Allergy,Severe,Adult,Allium cepa,Powder,500 mg twice daily,7 days,Avoid driving,HPUS Listed
+Cough,Severe,Adult,Drosera,Capsule,1 tsp twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Elderly,Rhus tox,Powder,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Allium cepa,Drops,5 ml thrice daily,3 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,1 tablet at night,10 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Elderly,Aconite,Tablet,1 tsp twice daily,7 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Adult,Gelsemium,Drops,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Flu,Moderate,Child,Arsenicum album,Inhaler,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Capsule,5 ml thrice daily,Continuous,Avoid alcohol,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Syrup,5 ml thrice daily,10 days,Avoid alcohol,HPUS Listed
+Headache,Mild,Adult,Nux vomica,Capsule,5 ml thrice daily,14 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Capsule,2 puffs as needed,10 days,Consult doctor if pregnant,HPUS Listed
+Fever,Severe,Adult,Belladonna,Capsule,1 tablet at night,Continuous,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Syrup,250 mg once daily,10 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Elderly,Belladonna,Powder,2 puffs as needed,14 days,Avoid alcohol,HPUS Listed
+Migraine,Mild,Child,Natrum muriaticum,Syrup,5 ml thrice daily,5 days,Take after food,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Capsule,250 mg once daily,7 days,Do not exceed dosage,HPUS Listed
+Back Pain,Severe,Elderly,Rhus tox,Powder,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Inhaler,1 tablet at night,7 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Elderly,Sanguinaria,Drops,5 ml thrice daily,30 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Bryonia,Drops,1 tsp twice daily,7 days,Take after food,HPUS Listed
+Flu,Severe,Elderly,Gelsemium,Tablet,1 tablet at night,10 days,Consult doctor if pregnant,HPUS Listed
+Fever,Severe,Elderly,Belladonna,Tablet,250 mg once daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Headache,Severe,Adult,Belladonna,Tablet,250 mg once daily,5 days,Store in cool place,HPUS Listed
+Cold,Mild,Elderly,Gelsemium,Tablet,5 ml thrice daily,7 days,Avoid driving,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,250 mg once daily,30 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Elderly,Argentum nitricum,Inhaler,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Capsule,2 puffs as needed,10 days,Store in cool place,HPUS Listed
+Arthritis,Mild,Adult,Bryonia,Drops,500 mg twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Flu,Severe,Adult,Oscillococcinum,Syrup,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Allium cepa,Tablet,1 tablet at night,5 days,Take after food,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Drops,500 mg twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Syrup,500 mg twice daily,14 days,Take after food,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Capsule,250 mg once daily,7 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Drops,5 ml thrice daily,10 days,Take after food,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,1 tsp twice daily,3 days,Do not exceed dosage,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,2 puffs as needed,3 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Elderly,Bryonia,Capsule,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Powder,1 tablet at night,14 days,Take after food,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,1 tsp twice daily,5 days,Store in cool place,HPUS Listed
+Back Pain,Moderate,Elderly,Arnica,Syrup,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Capsule,250 mg once daily,7 days,Store in cool place,HPUS Listed
+Headache,Moderate,Adult,Nux vomica,Powder,250 mg once daily,7 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Child,Argentum nitricum,Inhaler,1 tablet at night,30 days,Avoid driving,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Tablet,1 tsp twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Elderly,Argentum nitricum,Drops,1 tablet at night,3 days,Take after food,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,250 mg once daily,14 days,Take after food,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Powder,2 puffs as needed,Continuous,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Adult,Bryonia,Syrup,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Child,Gelsemium,Tablet,250 mg once daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Capsule,250 mg once daily,3 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Adult,Gelsemium,Drops,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Arsenicum album,Drops,1 tablet at night,30 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Belladonna,Powder,2 puffs as needed,3 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Elderly,Arsenicum album,Inhaler,1 tablet at night,3 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Capsule,250 mg once daily,Continuous,Store in cool place,HPUS Listed
+Migraine,Mild,Elderly,Natrum muriaticum,Capsule,1 tablet at night,14 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Capsule,2 puffs as needed,7 days,Store in cool place,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,250 mg once daily,10 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Child,Bryonia,Drops,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Child,Bryonia,Drops,1 tablet at night,3 days,Avoid alcohol,HPUS Listed
+Cold,Severe,Child,Allium cepa,Tablet,500 mg twice daily,14 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,2 puffs as needed,5 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Capsule,2 puffs as needed,10 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Drops,5 ml thrice daily,Continuous,Do not exceed dosage,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Tablet,1 tsp twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Powder,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Adult,Nux vomica,Drops,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Drops,1 tsp twice daily,10 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Capsule,250 mg once daily,Continuous,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Elderly,Aconite,Tablet,250 mg once daily,10 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Child,Drosera,Tablet,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Fever,Severe,Child,Belladonna,Powder,1 tablet at night,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Drops,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Elderly,Allium cepa,Tablet,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Sanguinaria,Drops,2 puffs as needed,7 days,Avoid driving,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Syrup,5 ml thrice daily,7 days,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Antimonium,Capsule,5 ml thrice daily,10 days,Avoid driving,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,500 mg twice daily,3 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Ferrum Phos,Capsule,500 mg twice daily,10 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Child,Gelsemium,Powder,500 mg twice daily,14 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Adult,Aconite,Capsule,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Syrup,500 mg twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Elderly,Sanguinaria,Capsule,2 puffs as needed,5 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Powder,1 tsp twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Capsule,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Arthritis,Severe,Adult,Calcarea,Inhaler,250 mg once daily,3 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Cold,Moderate,Child,Gelsemium,Drops,2 puffs as needed,3 days,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Migraine,Moderate,Elderly,Natrum muriaticum,Syrup,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Capsule,500 mg twice daily,7 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Powder,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Oscillococcinum,Capsule,2 puffs as needed,14 days,Avoid driving,HPUS Listed
+Cold,Moderate,Adult,Gelsemium,Syrup,500 mg twice daily,10 days,Avoid driving,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Inhaler,2 puffs as needed,14 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Capsule,250 mg once daily,30 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Tablet,1 tsp twice daily,10 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Elderly,Gelsemium,Inhaler,1 tablet at night,5 days,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Powder,250 mg once daily,3 days,Avoid alcohol,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Tablet,1 tablet at night,Continuous,Store in cool place,HPUS Listed
+Anxiety,Severe,Elderly,Argentum nitricum,Tablet,250 mg once daily,7 days,Store in cool place,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Powder,2 puffs as needed,5 days,Avoid alcohol,HPUS Listed
+Cold,Moderate,Elderly,Aconite,Powder,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Adult,Aconite,Tablet,1 tsp twice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,1 tsp twice daily,14 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Inhaler,500 mg twice daily,14 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Ferrum Phos,Inhaler,5 ml thrice daily,10 days,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Powder,500 mg twice daily,7 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,1 tsp twice daily,10 days,Store in cool place,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Powder,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Back Pain,Severe,Elderly,Rhus tox,Inhaler,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Syrup,500 mg twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,1 tablet at night,5 days,Take after food,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Powder,250 mg once daily,7 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Drops,1 tablet at night,30 days,Avoid driving,HPUS Listed
+Cough,Moderate,Child,Drosera,Inhaler,1 tablet at night,30 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Powder,2 puffs as needed,3 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Capsule,1 tsp twice daily,7 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Capsule,1 tablet at night,10 days,Consult doctor if pregnant,HPUS Listed
+Flu,Severe,Child,Gelsemium,Capsule,5 ml thrice daily,14 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Inhaler,250 mg once daily,7 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Powder,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Fever,Mild,Child,Belladonna,Capsule,500 mg twice daily,14 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Capsule,250 mg once daily,30 days,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,5 ml thrice daily,5 days,Take after food,HPUS Listed
+Fever,Moderate,Adult,Aconite,Inhaler,5 ml thrice daily,Continuous,Store in cool place,HPUS Listed
+Fever,Severe,Adult,Aconite,Syrup,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Capsule,1 tablet at night,7 days,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Adult,Ferrum Phos,Inhaler,1 tablet at night,10 days,Store in cool place,HPUS Listed
+Cold,Mild,Child,Gelsemium,Powder,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Inhaler,2 puffs as needed,Continuous,Do not exceed dosage,HPUS Listed
+Cough,Mild,Child,Drosera,Powder,500 mg twice daily,Continuous,Take after food,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Syrup,1 tsp twice daily,10 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Elderly,Gelsemium,Powder,2 puffs as needed,30 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Syrup,1 tablet at night,Continuous,Avoid alcohol,HPUS Listed
+Headache,Mild,Adult,Belladonna,Drops,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Drops,2 puffs as needed,7 days,Take after food,HPUS Listed
+Back Pain,Mild,Child,Arnica,Inhaler,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Tablet,1 tsp twice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Child,Belladonna,Tablet,500 mg twice daily,14 days,Store in cool place,HPUS Listed
+Migraine,Moderate,Child,Belladonna,Powder,5 ml thrice daily,5 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Elderly,Aconite,Syrup,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,5 ml thrice daily,5 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Elderly,Argentum nitricum,Inhaler,5 ml thrice daily,14 days,Avoid alcohol,HPUS Listed
+Migraine,Moderate,Elderly,Belladonna,Capsule,250 mg once daily,Continuous,Do not exceed dosage,HPUS Listed
+Migraine,Severe,Child,Belladonna,Syrup,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Back Pain,Mild,Elderly,Arnica,Inhaler,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Syrup,250 mg once daily,3 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Syrup,250 mg once daily,Continuous,Avoid driving,HPUS Listed
+Back Pain,Moderate,Adult,Bryonia,Syrup,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Child,Belladonna,Syrup,1 tablet at night,3 days,Avoid alcohol,HPUS Listed
+Headache,Moderate,Elderly,Sanguinaria,Syrup,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Severe,Child,Bryonia,Powder,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Powder,250 mg once daily,5 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Elderly,Drosera,Tablet,5 ml thrice daily,10 days,Take after food,HPUS Listed
+Back Pain,Moderate,Elderly,Arnica,Inhaler,500 mg twice daily,5 days,Store in cool place,HPUS Listed
+Cold,Moderate,Child,Aconite,Capsule,1 tablet at night,Continuous,Avoid driving,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Inhaler,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Syrup,1 tsp twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Cough,Moderate,Adult,Drosera,Powder,5 ml thrice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,1 tablet at night,7 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Tablet,500 mg twice daily,5 days,Take after food,HPUS Listed
+Cough,Mild,Elderly,Antimonium,Powder,1 tsp twice daily,Continuous,Store in cool place,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,2 puffs as needed,10 days,Avoid driving,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Drops,250 mg once daily,10 days,Take after food,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Drops,250 mg once daily,Continuous,Avoid alcohol,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Tablet,1 tsp twice daily,Continuous,Avoid driving,HPUS Listed
+Allergy,Moderate,Adult,Allium cepa,Capsule,500 mg twice daily,10 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Syrup,1 tsp twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Child,Allium cepa,Drops,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Powder,5 ml thrice daily,14 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Drops,5 ml thrice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Syrup,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,500 mg twice daily,30 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Belladonna,Inhaler,1 tsp twice daily,14 days,Store in cool place,HPUS Listed
+Anxiety,Moderate,Adult,Gelsemium,Powder,1 tsp twice daily,10 days,Do not exceed dosage,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Drops,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Tablet,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Drosera,Drops,1 tsp twice daily,14 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Capsule,1 tsp twice daily,30 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,250 mg once daily,3 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Powder,250 mg once daily,5 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Oscillococcinum,Capsule,250 mg once daily,5 days,Avoid alcohol,HPUS Listed
+Fever,Mild,Child,Ferrum Phos,Tablet,500 mg twice daily,3 days,Store in cool place,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,1 tsp twice daily,Continuous,Store in cool place,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Inhaler,1 tablet at night,10 days,Avoid alcohol,HPUS Listed
+Fever,Mild,Adult,Belladonna,Inhaler,500 mg twice daily,7 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Capsule,1 tablet at night,3 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Arsenicum album,Powder,1 tablet at night,5 days,Take after food,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Drops,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Elderly,Allium cepa,Inhaler,250 mg once daily,3 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Moderate,Elderly,Aconite,Inhaler,500 mg twice daily,7 days,Avoid alcohol,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Inhaler,5 ml thrice daily,3 days,Avoid alcohol,HPUS Listed
+Fever,Mild,Adult,Aconite,Tablet,1 tablet at night,3 days,Store in cool place,HPUS Listed
+Allergy,Mild,Child,Histaminum,Syrup,500 mg twice daily,10 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Powder,500 mg twice daily,7 days,Do not exceed dosage,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Capsule,2 puffs as needed,14 days,Store in cool place,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,500 mg twice daily,14 days,Take after food,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Powder,500 mg twice daily,10 days,Do not exceed dosage,HPUS Listed
+Arthritis,Mild,Child,Bryonia,Powder,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Severe,Adult,Bryonia,Tablet,1 tablet at night,14 days,Take after food,HPUS Listed
+Cough,Mild,Child,Drosera,Drops,5 ml thrice daily,10 days,Store in cool place,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Elderly,Ferrum Phos,Capsule,500 mg twice daily,Continuous,Avoid driving,HPUS Listed
+Headache,Severe,Adult,Belladonna,Inhaler,2 puffs as needed,10 days,Consult doctor if pregnant,HPUS Listed
+Cold,Mild,Child,Allium cepa,Powder,250 mg once daily,Continuous,Avoid alcohol,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Capsule,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Child,Belladonna,Capsule,250 mg once daily,14 days,Avoid driving,HPUS Listed
+Headache,Mild,Child,Belladonna,Drops,5 ml thrice daily,30 days,Store in cool place,HPUS Listed
+Headache,Moderate,Child,Belladonna,Syrup,1 tablet at night,7 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Child,Bryonia,Powder,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Elderly,Drosera,Tablet,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Fever,Severe,Adult,Belladonna,Syrup,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Inhaler,250 mg once daily,14 days,Take after food,HPUS Listed
+Flu,Severe,Elderly,Gelsemium,Syrup,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Capsule,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Inhaler,1 tsp twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Child,Belladonna,Powder,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,2 puffs as needed,Continuous,Avoid alcohol,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Tablet,1 tablet at night,7 days,Take after food,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,2 puffs as needed,3 days,Avoid driving,HPUS Listed
+Migraine,Severe,Child,Belladonna,Syrup,1 tablet at night,Continuous,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Drops,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Moderate,Child,Allium cepa,Inhaler,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Elderly,Belladonna,Powder,5 ml thrice daily,7 days,Avoid driving,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Drops,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Drops,500 mg twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Powder,2 puffs as needed,5 days,Store in cool place,HPUS Listed
+Cough,Mild,Elderly,Drosera,Drops,5 ml thrice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Flu,Mild,Adult,Arsenicum album,Capsule,2 puffs as needed,14 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Elderly,Arnica,Drops,2 puffs as needed,10 days,Take after food,HPUS Listed
+Migraine,Severe,Elderly,Belladonna,Syrup,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Inhaler,1 tablet at night,Continuous,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Adult,Bryonia,Tablet,2 puffs as needed,Continuous,Avoid driving,HPUS Listed
+Anxiety,Mild,Adult,Gelsemium,Syrup,5 ml thrice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Tablet,1 tsp twice daily,3 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Sanguinaria,Drops,1 tablet at night,7 days,Store in cool place,HPUS Listed
+Fever,Severe,Adult,Belladonna,Tablet,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Flu,Severe,Child,Oscillococcinum,Tablet,250 mg once daily,7 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Capsule,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Syrup,1 tablet at night,3 days,Store in cool place,HPUS Listed
+Cough,Moderate,Elderly,Antimonium,Capsule,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Child,Nux vomica,Inhaler,1 tablet at night,3 days,Avoid alcohol,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Capsule,5 ml thrice daily,Continuous,Store in cool place,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Capsule,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Aconite,Syrup,1 tablet at night,3 days,Take after food,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Drops,1 tsp twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Syrup,5 ml thrice daily,5 days,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Syrup,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Anxiety,Severe,Elderly,Argentum nitricum,Drops,5 ml thrice daily,14 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Adult,Antimonium,Capsule,5 ml thrice daily,30 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Belladonna,Tablet,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Child,Belladonna,Powder,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Drops,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Anxiety,Severe,Child,Argentum nitricum,Capsule,1 tablet at night,5 days,Do not exceed dosage,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Capsule,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Syrup,5 ml thrice daily,3 days,Take after food,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,2 puffs as needed,7 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Bryonia,Powder,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Capsule,250 mg once daily,Continuous,Take after food,HPUS Listed
+Anxiety,Mild,Child,Argentum nitricum,Tablet,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Child,Arnica,Drops,1 tsp twice daily,14 days,Avoid driving,HPUS Listed
+Flu,Severe,Child,Gelsemium,Tablet,500 mg twice daily,10 days,Avoid driving,HPUS Listed
+Arthritis,Severe,Child,Rhus tox,Syrup,1 tablet at night,7 days,Avoid driving,HPUS Listed
+Headache,Moderate,Elderly,Nux vomica,Powder,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Adult,Drosera,Inhaler,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Fever,Mild,Adult,Belladonna,Capsule,500 mg twice daily,30 days,Take after food,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Inhaler,2 puffs as needed,3 days,Store in cool place,HPUS Listed
+Migraine,Mild,Elderly,Belladonna,Syrup,250 mg once daily,5 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Capsule,500 mg twice daily,30 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Elderly,Drosera,Tablet,1 tsp twice daily,14 days,Avoid driving,HPUS Listed
+Fever,Mild,Adult,Belladonna,Tablet,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Powder,5 ml thrice daily,14 days,Store in cool place,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Ferrum Phos,Capsule,2 puffs as needed,14 days,Store in cool place,HPUS Listed
+Migraine,Severe,Child,Natrum muriaticum,Powder,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Arthritis,Mild,Adult,Bryonia,Syrup,500 mg twice daily,30 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Capsule,250 mg once daily,30 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Syrup,1 tablet at night,5 days,Store in cool place,HPUS Listed
+Cough,Moderate,Elderly,Antimonium,Tablet,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Natrum muriaticum,Drops,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Adult,Drosera,Drops,1 tablet at night,5 days,Take after food,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,1 tablet at night,3 days,Take after food,HPUS Listed
+Headache,Moderate,Child,Nux vomica,Capsule,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Headache,Mild,Adult,Nux vomica,Tablet,1 tablet at night,Continuous,Avoid alcohol,HPUS Listed
+Headache,Severe,Adult,Nux vomica,Inhaler,2 puffs as needed,10 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Child,Bryonia,Capsule,500 mg twice daily,30 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Child,Antimonium,Drops,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Capsule,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Drops,1 tsp twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,250 mg once daily,3 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Syrup,2 puffs as needed,Continuous,Avoid driving,HPUS Listed
+Arthritis,Mild,Elderly,Calcarea,Capsule,1 tablet at night,10 days,Take after food,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,5 ml thrice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Severe,Child,Argentum nitricum,Inhaler,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Moderate,Adult,Natrum muriaticum,Syrup,500 mg twice daily,7 days,Store in cool place,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Capsule,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Inhaler,1 tablet at night,5 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Sanguinaria,Drops,250 mg once daily,3 days,Store in cool place,HPUS Listed
+Flu,Severe,Adult,Arsenicum album,Powder,1 tablet at night,10 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Drops,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,250 mg once daily,14 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Adult,Allium cepa,Syrup,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Adult,Belladonna,Capsule,500 mg twice daily,Continuous,Store in cool place,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Drops,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Fever,Mild,Adult,Belladonna,Inhaler,1 tablet at night,10 days,Store in cool place,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Inhaler,1 tsp twice daily,30 days,Store in cool place,HPUS Listed
+Anxiety,Severe,Elderly,Gelsemium,Syrup,250 mg once daily,7 days,Take after food,HPUS Listed
+Back Pain,Severe,Adult,Rhus tox,Inhaler,2 puffs as needed,30 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Syrup,250 mg once daily,3 days,Take after food,HPUS Listed
+Headache,Moderate,Child,Belladonna,Tablet,1 tsp twice daily,7 days,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,1 tsp twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Capsule,500 mg twice daily,Continuous,Take after food,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Syrup,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Child,Argentum nitricum,Tablet,1 tablet at night,7 days,Store in cool place,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Inhaler,500 mg twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,250 mg once daily,30 days,Avoid driving,HPUS Listed
+Allergy,Severe,Elderly,Arsenicum album,Tablet,1 tsp twice daily,30 days,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,250 mg once daily,3 days,Avoid alcohol,HPUS Listed
+Headache,Severe,Adult,Nux vomica,Powder,5 ml thrice daily,7 days,Take after food,HPUS Listed
+Allergy,Mild,Elderly,Arsenicum album,Capsule,2 puffs as needed,14 days,Avoid driving,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Inhaler,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Drops,500 mg twice daily,30 days,Do not exceed dosage,HPUS Listed
+Back Pain,Moderate,Elderly,Arnica,Capsule,2 puffs as needed,10 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,250 mg once daily,10 days,Avoid alcohol,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Drops,1 tablet at night,7 days,Take after food,HPUS Listed
+Arthritis,Severe,Child,Calcarea,Syrup,5 ml thrice daily,30 days,Do not exceed dosage,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Drops,250 mg once daily,30 days,Take after food,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Capsule,500 mg twice daily,10 days,Avoid alcohol,HPUS Listed
+Migraine,Moderate,Elderly,Belladonna,Tablet,250 mg once daily,Continuous,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Arsenicum album,Capsule,500 mg twice daily,5 days,Avoid alcohol,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Powder,2 puffs as needed,5 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Inhaler,250 mg once daily,7 days,Take after food,HPUS Listed
+Headache,Severe,Adult,Sanguinaria,Drops,1 tablet at night,5 days,Take after food,HPUS Listed
+Cough,Moderate,Adult,Drosera,Inhaler,250 mg once daily,30 days,Do not exceed dosage,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Syrup,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Inhaler,500 mg twice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Child,Belladonna,Inhaler,500 mg twice daily,14 days,Take after food,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,250 mg once daily,Continuous,Take after food,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Inhaler,500 mg twice daily,7 days,Store in cool place,HPUS Listed
+Flu,Moderate,Elderly,Gelsemium,Drops,250 mg once daily,30 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Drops,5 ml thrice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Capsule,250 mg once daily,5 days,Take after food,HPUS Listed
+Cough,Moderate,Adult,Drosera,Tablet,1 tablet at night,3 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Drops,1 tablet at night,14 days,Take after food,HPUS Listed
+Cough,Mild,Elderly,Drosera,Inhaler,250 mg once daily,Continuous,Do not exceed dosage,HPUS Listed
+Headache,Severe,Adult,Belladonna,Capsule,1 tablet at night,Continuous,Store in cool place,HPUS Listed
+Arthritis,Severe,Adult,Bryonia,Tablet,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Belladonna,Tablet,1 tablet at night,14 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Inhaler,250 mg once daily,10 days,Store in cool place,HPUS Listed
+Fever,Mild,Adult,Belladonna,Powder,1 tablet at night,10 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Belladonna,Inhaler,500 mg twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Drops,500 mg twice daily,7 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Bryonia,Drops,5 ml thrice daily,7 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Elderly,Argentum nitricum,Drops,2 puffs as needed,14 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Capsule,500 mg twice daily,10 days,Avoid alcohol,HPUS Listed
+Cough,Severe,Adult,Drosera,Drops,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Syrup,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Allergy,Severe,Adult,Allium cepa,Inhaler,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Capsule,500 mg twice daily,5 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Adult,Bryonia,Capsule,250 mg once daily,10 days,Store in cool place,HPUS Listed
+Back Pain,Severe,Child,Rhus tox,Drops,1 tsp twice daily,14 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Drops,250 mg once daily,30 days,Store in cool place,HPUS Listed
+Migraine,Mild,Adult,Bryonia,Tablet,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Back Pain,Severe,Adult,Rhus tox,Drops,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Headache,Mild,Child,Belladonna,Tablet,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Adult,Ferrum Phos,Syrup,1 tsp twice daily,30 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,5 ml thrice daily,14 days,Avoid driving,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Inhaler,250 mg once daily,10 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Severe,Child,Rhus tox,Tablet,500 mg twice daily,10 days,Take after food,HPUS Listed
+Headache,Mild,Adult,Belladonna,Powder,1 tablet at night,10 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,500 mg twice daily,30 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Belladonna,Capsule,500 mg twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Child,Belladonna,Tablet,250 mg once daily,14 days,Take after food,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,5 ml thrice daily,14 days,Consult doctor if pregnant,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Syrup,1 tsp twice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,5 ml thrice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Syrup,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Bryonia,Capsule,1 tablet at night,Continuous,Consult doctor if pregnant,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Syrup,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Flu,Moderate,Adult,Arsenicum album,Capsule,250 mg once daily,5 days,Avoid alcohol,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Inhaler,1 tablet at night,5 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Elderly,Gelsemium,Syrup,500 mg twice daily,5 days,Take after food,HPUS Listed
+Cold,Moderate,Elderly,Aconite,Inhaler,250 mg once daily,3 days,Store in cool place,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,5 ml thrice daily,Continuous,Do not exceed dosage,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Syrup,5 ml thrice daily,10 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Child,Bryonia,Tablet,5 ml thrice daily,7 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Drops,1 tsp twice daily,5 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Child,Ferrum Phos,Syrup,500 mg twice daily,5 days,Avoid alcohol,HPUS Listed
+Allergy,Severe,Adult,Allium cepa,Syrup,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Inhaler,500 mg twice daily,14 days,Avoid driving,HPUS Listed
+Cold,Severe,Adult,Aconite,Syrup,1 tablet at night,7 days,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Capsule,500 mg twice daily,3 days,Take after food,HPUS Listed
+Flu,Mild,Child,Gelsemium,Capsule,250 mg once daily,Continuous,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Antimonium,Capsule,250 mg once daily,7 days,Avoid driving,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Tablet,5 ml thrice daily,5 days,Store in cool place,HPUS Listed
+Arthritis,Moderate,Adult,Bryonia,Drops,1 tablet at night,10 days,Do not exceed dosage,HPUS Listed
+Fever,Severe,Adult,Belladonna,Drops,5 ml thrice daily,30 days,Store in cool place,HPUS Listed
+Cough,Moderate,Adult,Drosera,Tablet,250 mg once daily,Continuous,Store in cool place,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Syrup,500 mg twice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Moderate,Adult,Histaminum,Tablet,250 mg once daily,5 days,Do not exceed dosage,HPUS Listed
+Headache,Moderate,Adult,Sanguinaria,Powder,5 ml thrice daily,10 days,Avoid driving,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Capsule,250 mg once daily,5 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Oscillococcinum,Capsule,500 mg twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Tablet,250 mg once daily,3 days,Take after food,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Drops,500 mg twice daily,30 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Inhaler,250 mg once daily,Continuous,Avoid driving,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Drops,500 mg twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Headache,Severe,Child,Belladonna,Capsule,1 tablet at night,14 days,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Gelsemium,Syrup,1 tablet at night,Continuous,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Powder,1 tablet at night,Continuous,Avoid alcohol,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,5 ml thrice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Syrup,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Cold,Moderate,Adult,Gelsemium,Inhaler,5 ml thrice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Capsule,5 ml thrice daily,3 days,Avoid driving,HPUS Listed
+Headache,Severe,Adult,Belladonna,Inhaler,250 mg once daily,Continuous,Store in cool place,HPUS Listed
+Arthritis,Severe,Adult,Rhus tox,Tablet,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Moderate,Elderly,Belladonna,Syrup,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Elderly,Gelsemium,Capsule,250 mg once daily,10 days,Take after food,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Capsule,500 mg twice daily,5 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Child,Aconite,Powder,500 mg twice daily,5 days,Store in cool place,HPUS Listed
+Headache,Moderate,Adult,Sanguinaria,Drops,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Syrup,1 tablet at night,3 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Powder,1 tsp twice daily,7 days,Store in cool place,HPUS Listed
+Headache,Severe,Adult,Belladonna,Tablet,2 puffs as needed,3 days,Take after food,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,250 mg once daily,5 days,Do not exceed dosage,HPUS Listed
+Arthritis,Severe,Child,Rhus tox,Capsule,250 mg once daily,3 days,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Drosera,Powder,1 tablet at night,10 days,Take after food,HPUS Listed
+Allergy,Moderate,Child,Allium cepa,Capsule,250 mg once daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Elderly,Argentum nitricum,Powder,1 tsp twice daily,10 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,250 mg once daily,3 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,1 tsp twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Drops,250 mg once daily,10 days,Avoid driving,HPUS Listed
+Allergy,Moderate,Elderly,Arsenicum album,Inhaler,250 mg once daily,7 days,Take after food,HPUS Listed
+Arthritis,Moderate,Adult,Calcarea,Capsule,5 ml thrice daily,14 days,Take after food,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Tablet,250 mg once daily,Continuous,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Adult,Drosera,Capsule,250 mg once daily,14 days,Consult doctor if pregnant,HPUS Listed
+Cold,Severe,Elderly,Allium cepa,Inhaler,250 mg once daily,3 days,Take after food,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Inhaler,250 mg once daily,10 days,Take after food,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Capsule,1 tsp twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,1 tsp twice daily,14 days,Avoid alcohol,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Capsule,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Fever,Severe,Adult,Belladonna,Drops,250 mg once daily,3 days,Store in cool place,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Capsule,500 mg twice daily,7 days,Store in cool place,HPUS Listed
+Anxiety,Mild,Elderly,Argentum nitricum,Syrup,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Tablet,500 mg twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Inhaler,5 ml thrice daily,7 days,Take after food,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Powder,2 puffs as needed,10 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Drops,2 puffs as needed,30 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Adult,Aconite,Drops,500 mg twice daily,14 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,1 tablet at night,10 days,Take after food,HPUS Listed
+Cough,Mild,Adult,Drosera,Tablet,500 mg twice daily,7 days,Take after food,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Syrup,1 tablet at night,10 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Inhaler,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Powder,1 tablet at night,14 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Adult,Drosera,Tablet,500 mg twice daily,5 days,Avoid driving,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Drops,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Headache,Moderate,Adult,Sanguinaria,Capsule,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Capsule,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Allergy,Mild,Child,Arsenicum album,Drops,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Adult,Drosera,Tablet,2 puffs as needed,10 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,250 mg once daily,5 days,Do not exceed dosage,HPUS Listed
+Allergy,Severe,Adult,Allium cepa,Drops,250 mg once daily,5 days,Avoid driving,HPUS Listed
+Back Pain,Mild,Child,Bryonia,Tablet,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Cough,Mild,Child,Drosera,Syrup,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Capsule,1 tablet at night,14 days,Take after food,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Capsule,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Migraine,Mild,Child,Natrum muriaticum,Drops,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Bryonia,Drops,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Headache,Moderate,Adult,Nux vomica,Powder,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Anxiety,Mild,Child,Argentum nitricum,Powder,2 puffs as needed,10 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Calcarea,Powder,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Capsule,1 tablet at night,30 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Adult,Bryonia,Inhaler,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Syrup,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Syrup,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,1 tablet at night,7 days,Take after food,HPUS Listed
+Migraine,Mild,Child,Natrum muriaticum,Inhaler,250 mg once daily,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Inhaler,1 tsp twice daily,14 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Inhaler,5 ml thrice daily,30 days,Store in cool place,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Powder,5 ml thrice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Cold,Moderate,Adult,Aconite,Powder,5 ml thrice daily,3 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Drops,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Syrup,1 tsp twice daily,14 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Child,Argentum nitricum,Drops,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,250 mg once daily,10 days,Take after food,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,500 mg twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Cough,Mild,Adult,Drosera,Tablet,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Tablet,5 ml thrice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Syrup,1 tablet at night,3 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Elderly,Belladonna,Inhaler,5 ml thrice daily,3 days,Avoid alcohol,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Drops,2 puffs as needed,3 days,Do not exceed dosage,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Syrup,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Powder,1 tablet at night,Continuous,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Child,Rhus tox,Drops,500 mg twice daily,30 days,Avoid alcohol,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Tablet,500 mg twice daily,3 days,Store in cool place,HPUS Listed
+Allergy,Mild,Elderly,Arsenicum album,Capsule,5 ml thrice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Elderly,Rhus tox,Syrup,250 mg once daily,7 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Syrup,1 tsp twice daily,14 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Capsule,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Drops,5 ml thrice daily,10 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Powder,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Adult,Belladonna,Tablet,250 mg once daily,14 days,Take after food,HPUS Listed
+Headache,Severe,Adult,Belladonna,Syrup,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Adult,Arsenicum album,Powder,500 mg twice daily,3 days,Store in cool place,HPUS Listed
+Allergy,Severe,Adult,Arsenicum album,Tablet,1 tablet at night,Continuous,Avoid driving,HPUS Listed
+Allergy,Moderate,Adult,Histaminum,Inhaler,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,1 tsp twice daily,7 days,Store in cool place,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Syrup,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Bryonia,Powder,5 ml thrice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Child,Belladonna,Tablet,1 tsp twice daily,Continuous,Store in cool place,HPUS Listed
+Fever,Mild,Adult,Belladonna,Inhaler,5 ml thrice daily,7 days,Avoid driving,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Capsule,5 ml thrice daily,10 days,Do not exceed dosage,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,1 tsp twice daily,7 days,Store in cool place,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Powder,250 mg once daily,3 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Tablet,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Cold,Mild,Child,Gelsemium,Drops,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Bryonia,Capsule,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Powder,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Inhaler,5 ml thrice daily,Continuous,Store in cool place,HPUS Listed
+Allergy,Mild,Adult,Histaminum,Powder,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Natrum muriaticum,Capsule,5 ml thrice daily,7 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Capsule,1 tsp twice daily,Continuous,Avoid driving,HPUS Listed
+Migraine,Mild,Elderly,Bryonia,Inhaler,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Syrup,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,500 mg twice daily,14 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Capsule,1 tablet at night,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Moderate,Child,Drosera,Drops,1 tsp twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Cough,Moderate,Adult,Drosera,Powder,1 tsp twice daily,7 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Powder,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Capsule,1 tsp twice daily,30 days,Avoid alcohol,HPUS Listed
+Migraine,Mild,Child,Belladonna,Powder,2 puffs as needed,30 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,250 mg once daily,7 days,Do not exceed dosage,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Tablet,2 puffs as needed,3 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Elderly,Belladonna,Syrup,500 mg twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Inhaler,1 tsp twice daily,3 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Adult,Bryonia,Powder,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Flu,Mild,Child,Gelsemium,Inhaler,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Elderly,Belladonna,Powder,1 tablet at night,Continuous,Store in cool place,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Severe,Elderly,Belladonna,Powder,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Powder,500 mg twice daily,Continuous,Store in cool place,HPUS Listed
+Arthritis,Moderate,Child,Calcarea,Syrup,250 mg once daily,5 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,1 tsp twice daily,3 days,Avoid alcohol,HPUS Listed
+Allergy,Severe,Adult,Histaminum,Inhaler,5 ml thrice daily,5 days,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Belladonna,Powder,500 mg twice daily,30 days,Do not exceed dosage,HPUS Listed
+Headache,Severe,Adult,Nux vomica,Drops,500 mg twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Child,Belladonna,Inhaler,250 mg once daily,10 days,Avoid alcohol,HPUS Listed
+Headache,Moderate,Adult,Sanguinaria,Capsule,2 puffs as needed,Continuous,Avoid driving,HPUS Listed
+Cough,Moderate,Child,Antimonium,Powder,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,1 tablet at night,3 days,Store in cool place,HPUS Listed
+Headache,Severe,Elderly,Belladonna,Inhaler,500 mg twice daily,7 days,Store in cool place,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Inhaler,2 puffs as needed,5 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,500 mg twice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Capsule,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Powder,2 puffs as needed,Continuous,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Tablet,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Arthritis,Severe,Adult,Calcarea,Syrup,1 tsp twice daily,Continuous,Store in cool place,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Tablet,500 mg twice daily,5 days,Store in cool place,HPUS Listed
+Flu,Severe,Child,Gelsemium,Tablet,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Back Pain,Severe,Child,Rhus tox,Tablet,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Powder,5 ml thrice daily,Continuous,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Inhaler,2 puffs as needed,7 days,Store in cool place,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Capsule,250 mg once daily,14 days,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Adult,Aconite,Syrup,5 ml thrice daily,3 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Allium cepa,Inhaler,250 mg once daily,Continuous,Avoid driving,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Inhaler,1 tsp twice daily,14 days,Avoid alcohol,HPUS Listed
+Cold,Moderate,Adult,Gelsemium,Drops,500 mg twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Adult,Arsenicum album,Powder,2 puffs as needed,5 days,Do not exceed dosage,HPUS Listed
+Arthritis,Severe,Adult,Rhus tox,Capsule,1 tablet at night,5 days,Take after food,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Syrup,500 mg twice daily,5 days,Store in cool place,HPUS Listed
+Fever,Mild,Adult,Belladonna,Syrup,250 mg once daily,14 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Bryonia,Capsule,5 ml thrice daily,7 days,Take after food,HPUS Listed
+Fever,Moderate,Child,Aconite,Capsule,500 mg twice daily,14 days,Avoid alcohol,HPUS Listed
+Headache,Mild,Child,Belladonna,Syrup,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Powder,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Headache,Moderate,Adult,Sanguinaria,Tablet,500 mg twice daily,14 days,Avoid driving,HPUS Listed
+Migraine,Severe,Elderly,Belladonna,Capsule,5 ml thrice daily,14 days,Avoid driving,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Inhaler,5 ml thrice daily,Continuous,Take after food,HPUS Listed
+Cough,Severe,Adult,Drosera,Drops,1 tablet at night,5 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Tablet,250 mg once daily,7 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Inhaler,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Headache,Severe,Adult,Nux vomica,Inhaler,1 tablet at night,5 days,Avoid alcohol,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,500 mg twice daily,7 days,Avoid driving,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Capsule,250 mg once daily,7 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,250 mg once daily,Continuous,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Inhaler,1 tsp twice daily,3 days,Store in cool place,HPUS Listed
+Flu,Mild,Child,Gelsemium,Capsule,250 mg once daily,3 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Elderly,Argentum nitricum,Drops,2 puffs as needed,Continuous,Avoid alcohol,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,2 puffs as needed,Continuous,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Capsule,250 mg once daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Elderly,Gelsemium,Syrup,250 mg once daily,3 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,5 ml thrice daily,Continuous,Avoid alcohol,HPUS Listed
+Cough,Moderate,Elderly,Antimonium,Tablet,1 tsp twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Adult,Bryonia,Powder,500 mg twice daily,5 days,Store in cool place,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,250 mg once daily,10 days,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Powder,500 mg twice daily,30 days,Take after food,HPUS Listed
+Anxiety,Mild,Adult,Aconite,Powder,5 ml thrice daily,3 days,Avoid driving,HPUS Listed
+Fever,Moderate,Child,Belladonna,Syrup,1 tsp twice daily,14 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Adult,Bryonia,Drops,5 ml thrice daily,30 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Arsenicum album,Powder,1 tablet at night,10 days,Take after food,HPUS Listed
+Allergy,Severe,Elderly,Arsenicum album,Powder,1 tsp twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Drops,1 tsp twice daily,3 days,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Powder,250 mg once daily,3 days,Avoid driving,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Powder,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Cough,Severe,Adult,Bryonia,Syrup,1 tsp twice daily,7 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Capsule,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Drops,500 mg twice daily,5 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Adult,Drosera,Drops,250 mg once daily,Continuous,Avoid alcohol,HPUS Listed
+Headache,Mild,Child,Sanguinaria,Capsule,500 mg twice daily,3 days,Avoid alcohol,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Drops,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Powder,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Tablet,1 tsp twice daily,Continuous,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,250 mg once daily,30 days,Avoid driving,HPUS Listed
+Allergy,Moderate,Adult,Histaminum,Powder,1 tsp twice daily,30 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Child,Belladonna,Syrup,5 ml thrice daily,14 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Tablet,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,500 mg twice daily,30 days,Take after food,HPUS Listed
+Arthritis,Severe,Child,Rhus tox,Syrup,500 mg twice daily,30 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Capsule,1 tsp twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Antimonium,Drops,500 mg twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Tablet,2 puffs as needed,7 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Drops,5 ml thrice daily,Continuous,Avoid driving,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,250 mg once daily,7 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Ferrum Phos,Tablet,1 tablet at night,14 days,Take after food,HPUS Listed
+Cough,Moderate,Adult,Drosera,Syrup,500 mg twice daily,5 days,Avoid driving,HPUS Listed
+Cough,Severe,Adult,Drosera,Inhaler,5 ml thrice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,2 puffs as needed,7 days,Take after food,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Tablet,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Oscillococcinum,Powder,500 mg twice daily,30 days,Avoid driving,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Syrup,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Capsule,250 mg once daily,3 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Capsule,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Capsule,250 mg once daily,5 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Syrup,1 tsp twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Capsule,1 tablet at night,Continuous,Consult doctor if pregnant,HPUS Listed
+Anxiety,Severe,Child,Argentum nitricum,Drops,250 mg once daily,5 days,Avoid driving,HPUS Listed
+Back Pain,Mild,Elderly,Bryonia,Tablet,500 mg twice daily,14 days,Avoid alcohol,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Drops,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Mild,Adult,Bryonia,Inhaler,500 mg twice daily,10 days,Avoid driving,HPUS Listed
+Flu,Moderate,Elderly,Gelsemium,Drops,1 tablet at night,5 days,Avoid driving,HPUS Listed
+Cough,Moderate,Elderly,Drosera,Inhaler,1 tablet at night,Continuous,Avoid driving,HPUS Listed
+Headache,Severe,Adult,Sanguinaria,Capsule,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Adult,Bryonia,Powder,5 ml thrice daily,Continuous,Do not exceed dosage,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Powder,500 mg twice daily,30 days,Take after food,HPUS Listed
+Headache,Severe,Adult,Belladonna,Powder,5 ml thrice daily,14 days,Do not exceed dosage,HPUS Listed
+Arthritis,Mild,Elderly,Calcarea,Syrup,5 ml thrice daily,Continuous,Take after food,HPUS Listed
+Anxiety,Severe,Adult,Argentum nitricum,Inhaler,1 tsp twice daily,5 days,Avoid alcohol,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,1 tsp twice daily,30 days,Consult doctor if pregnant,HPUS Listed
+Cough,Mild,Adult,Drosera,Inhaler,1 tablet at night,30 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Mild,Child,Argentum nitricum,Drops,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Allergy,Mild,Child,Arsenicum album,Capsule,500 mg twice daily,Continuous,Store in cool place,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Syrup,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Cough,Mild,Adult,Bryonia,Inhaler,1 tsp twice daily,3 days,Avoid driving,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Tablet,500 mg twice daily,3 days,Take after food,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Drops,1 tablet at night,7 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Child,Drosera,Tablet,5 ml thrice daily,14 days,Store in cool place,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Capsule,500 mg twice daily,30 days,Store in cool place,HPUS Listed
+Flu,Mild,Elderly,Gelsemium,Tablet,1 tablet at night,5 days,Avoid alcohol,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,500 mg twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Fever,Severe,Adult,Aconite,Inhaler,500 mg twice daily,5 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Bryonia,Drops,1 tsp twice daily,10 days,Avoid alcohol,HPUS Listed
+Cold,Severe,Adult,Gelsemium,Capsule,5 ml thrice daily,30 days,Store in cool place,HPUS Listed
+Migraine,Moderate,Elderly,Bryonia,Syrup,500 mg twice daily,14 days,Store in cool place,HPUS Listed
+Anxiety,Moderate,Adult,Gelsemium,Syrup,5 ml thrice daily,3 days,Store in cool place,HPUS Listed
+Cold,Mild,Elderly,Allium cepa,Syrup,1 tsp twice daily,5 days,Store in cool place,HPUS Listed
+Cold,Moderate,Elderly,Allium cepa,Drops,2 puffs as needed,14 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,1 tablet at night,5 days,Avoid driving,HPUS Listed
+Cold,Mild,Child,Aconite,Drops,1 tsp twice daily,3 days,Do not exceed dosage,HPUS Listed
+Arthritis,Severe,Adult,Calcarea,Drops,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,2 puffs as needed,7 days,Take after food,HPUS Listed
+Fever,Severe,Adult,Belladonna,Tablet,250 mg once daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Syrup,2 puffs as needed,Continuous,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Syrup,250 mg once daily,Continuous,Take after food,HPUS Listed
+Allergy,Mild,Elderly,Allium cepa,Tablet,2 puffs as needed,14 days,Avoid alcohol,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Inhaler,5 ml thrice daily,10 days,Store in cool place,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Syrup,500 mg twice daily,10 days,Do not exceed dosage,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Syrup,1 tablet at night,30 days,Take after food,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Syrup,250 mg once daily,10 days,Avoid alcohol,HPUS Listed
+Fever,Mild,Child,Belladonna,Tablet,1 tablet at night,14 days,Consult doctor if pregnant,HPUS Listed
+Cough,Moderate,Adult,Drosera,Tablet,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,250 mg once daily,3 days,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Adult,Aconite,Tablet,500 mg twice daily,7 days,Take after food,HPUS Listed
+Fever,Mild,Adult,Belladonna,Inhaler,1 tablet at night,7 days,Store in cool place,HPUS Listed
+Flu,Mild,Adult,Oscillococcinum,Capsule,250 mg once daily,30 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Belladonna,Syrup,500 mg twice daily,Continuous,Avoid alcohol,HPUS Listed
+Anxiety,Moderate,Adult,Aconite,Capsule,2 puffs as needed,14 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Child,Arnica,Powder,5 ml thrice daily,7 days,Store in cool place,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Inhaler,5 ml thrice daily,Continuous,Avoid alcohol,HPUS Listed
+Cough,Moderate,Adult,Drosera,Powder,500 mg twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Moderate,Elderly,Argentum nitricum,Drops,1 tsp twice daily,10 days,Take after food,HPUS Listed
+Allergy,Mild,Child,Allium cepa,Syrup,2 puffs as needed,Continuous,Store in cool place,HPUS Listed
+Headache,Mild,Adult,Nux vomica,Capsule,500 mg twice daily,7 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Powder,2 puffs as needed,3 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Drops,250 mg once daily,10 days,Store in cool place,HPUS Listed
+Fever,Mild,Adult,Belladonna,Capsule,1 tsp twice daily,3 days,Take after food,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Syrup,1 tablet at night,10 days,Store in cool place,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,2 puffs as needed,30 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Elderly,Bryonia,Powder,5 ml thrice daily,3 days,Avoid driving,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Inhaler,1 tablet at night,5 days,Take after food,HPUS Listed
+Arthritis,Moderate,Elderly,Calcarea,Syrup,250 mg once daily,30 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Capsule,250 mg once daily,14 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Arsenicum album,Drops,1 tablet at night,3 days,Consult doctor if pregnant,HPUS Listed
+Flu,Mild,Adult,Oscillococcinum,Drops,250 mg once daily,5 days,Avoid alcohol,HPUS Listed
+Headache,Mild,Adult,Nux vomica,Syrup,500 mg twice daily,30 days,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Natrum muriaticum,Drops,500 mg twice daily,7 days,Do not exceed dosage,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Capsule,1 tablet at night,30 days,Store in cool place,HPUS Listed
+Headache,Mild,Child,Belladonna,Powder,2 puffs as needed,10 days,Store in cool place,HPUS Listed
+Headache,Severe,Adult,Belladonna,Powder,1 tablet at night,Continuous,Avoid alcohol,HPUS Listed
+Allergy,Mild,Adult,Allium cepa,Capsule,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,250 mg once daily,30 days,Take after food,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Syrup,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,5 ml thrice daily,5 days,Do not exceed dosage,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Inhaler,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Powder,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Elderly,Drosera,Powder,1 tsp twice daily,3 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Tablet,500 mg twice daily,10 days,Do not exceed dosage,HPUS Listed
+Fever,Severe,Adult,Ferrum Phos,Tablet,250 mg once daily,Continuous,Avoid alcohol,HPUS Listed
+Back Pain,Moderate,Adult,Bryonia,Syrup,1 tablet at night,3 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Inhaler,250 mg once daily,7 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Severe,Elderly,Rhus tox,Inhaler,250 mg once daily,14 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Powder,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Syrup,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Powder,250 mg once daily,5 days,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Antimonium,Tablet,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Powder,2 puffs as needed,3 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Arnica,Capsule,2 puffs as needed,Continuous,Take after food,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Inhaler,5 ml thrice daily,14 days,Store in cool place,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Powder,2 puffs as needed,7 days,Avoid alcohol,HPUS Listed
+Back Pain,Moderate,Elderly,Arnica,Tablet,250 mg once daily,3 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Elderly,Belladonna,Capsule,1 tsp twice daily,3 days,Take after food,HPUS Listed
+Cough,Moderate,Elderly,Bryonia,Syrup,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Capsule,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Adult,Arsenicum album,Capsule,5 ml thrice daily,3 days,Avoid alcohol,HPUS Listed
+Cough,Moderate,Elderly,Bryonia,Syrup,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Allergy,Moderate,Adult,Histaminum,Drops,500 mg twice daily,5 days,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Drops,250 mg once daily,14 days,Take after food,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Inhaler,250 mg once daily,14 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Drops,1 tablet at night,14 days,Store in cool place,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Syrup,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Syrup,1 tsp twice daily,14 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Child,Antimonium,Inhaler,2 puffs as needed,5 days,Avoid alcohol,HPUS Listed
+Arthritis,Mild,Adult,Rhus tox,Tablet,500 mg twice daily,10 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Natrum muriaticum,Capsule,2 puffs as needed,7 days,Do not exceed dosage,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Drops,250 mg once daily,3 days,Avoid driving,HPUS Listed
+Headache,Severe,Adult,Belladonna,Syrup,2 puffs as needed,7 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Capsule,1 tablet at night,3 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Tablet,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Oscillococcinum,Tablet,250 mg once daily,5 days,Store in cool place,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Syrup,500 mg twice daily,7 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Drops,500 mg twice daily,7 days,Take after food,HPUS Listed
+Fever,Severe,Adult,Belladonna,Inhaler,1 tablet at night,5 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Syrup,250 mg once daily,5 days,Avoid alcohol,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Drops,5 ml thrice daily,30 days,Do not exceed dosage,HPUS Listed
+Cold,Severe,Adult,Allium cepa,Syrup,1 tsp twice daily,10 days,Avoid driving,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Capsule,250 mg once daily,5 days,Take after food,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Syrup,1 tsp twice daily,3 days,Take after food,HPUS Listed
+Headache,Mild,Adult,Belladonna,Inhaler,5 ml thrice daily,3 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Belladonna,Powder,1 tsp twice daily,5 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Drops,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,1 tablet at night,14 days,Take after food,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Syrup,1 tablet at night,7 days,Avoid alcohol,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Syrup,500 mg twice daily,Continuous,Avoid alcohol,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Drops,2 puffs as needed,5 days,Consult doctor if pregnant,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Syrup,250 mg once daily,30 days,Avoid alcohol,HPUS Listed
+Cold,Mild,Adult,Gelsemium,Syrup,500 mg twice daily,7 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Child,Belladonna,Drops,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Bryonia,Inhaler,500 mg twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Adult,Aconite,Tablet,2 puffs as needed,Continuous,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Adult,Belladonna,Drops,500 mg twice daily,14 days,Take after food,HPUS Listed
+Allergy,Moderate,Adult,Arsenicum album,Capsule,250 mg once daily,7 days,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Tablet,1 tablet at night,3 days,Avoid driving,HPUS Listed
+Fever,Mild,Child,Aconite,Tablet,5 ml thrice daily,10 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Tablet,2 puffs as needed,10 days,Take after food,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Syrup,500 mg twice daily,3 days,Do not exceed dosage,HPUS Listed
+Headache,Mild,Adult,Belladonna,Tablet,2 puffs as needed,Continuous,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Bryonia,Capsule,2 puffs as needed,3 days,Avoid alcohol,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Syrup,250 mg once daily,5 days,Store in cool place,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Tablet,1 tablet at night,5 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,2 puffs as needed,10 days,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Arnica,Syrup,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Gelsemium,Syrup,500 mg twice daily,14 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Child,Rhus tox,Powder,1 tsp twice daily,14 days,Take after food,HPUS Listed
+Cough,Severe,Adult,Drosera,Syrup,1 tsp twice daily,5 days,Avoid driving,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Capsule,250 mg once daily,7 days,Consult doctor if pregnant,HPUS Listed
+Back Pain,Moderate,Adult,Arnica,Inhaler,1 tsp twice daily,7 days,Avoid driving,HPUS Listed
+Migraine,Mild,Child,Natrum muriaticum,Syrup,1 tsp twice daily,7 days,Store in cool place,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Powder,500 mg twice daily,7 days,Store in cool place,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Syrup,500 mg twice daily,30 days,Avoid alcohol,HPUS Listed
+Fever,Severe,Adult,Belladonna,Drops,5 ml thrice daily,10 days,Store in cool place,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Syrup,1 tsp twice daily,14 days,Avoid alcohol,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Syrup,1 tablet at night,10 days,Avoid alcohol,HPUS Listed
+Anxiety,Mild,Adult,Argentum nitricum,Tablet,5 ml thrice daily,5 days,Avoid driving,HPUS Listed
+Flu,Mild,Adult,Oscillococcinum,Inhaler,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Syrup,2 puffs as needed,7 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Elderly,Rhus tox,Inhaler,1 tsp twice daily,Continuous,Avoid alcohol,HPUS Listed
+Headache,Mild,Elderly,Belladonna,Syrup,1 tsp twice daily,30 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Child,Belladonna,Drops,250 mg once daily,14 days,Avoid alcohol,HPUS Listed
+Fever,Mild,Adult,Ferrum Phos,Inhaler,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Inhaler,500 mg twice daily,7 days,Avoid alcohol,HPUS Listed
+Allergy,Severe,Adult,Allium cepa,Powder,1 tsp twice daily,5 days,Take after food,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,2 puffs as needed,10 days,Store in cool place,HPUS Listed
+Cold,Moderate,Child,Allium cepa,Inhaler,2 puffs as needed,Continuous,Avoid driving,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Powder,2 puffs as needed,14 days,Store in cool place,HPUS Listed
+Flu,Moderate,Adult,Gelsemium,Drops,1 tsp twice daily,Continuous,Avoid alcohol,HPUS Listed
+Back Pain,Mild,Adult,Rhus tox,Syrup,1 tablet at night,Continuous,Take after food,HPUS Listed
+Flu,Moderate,Elderly,Gelsemium,Inhaler,2 puffs as needed,3 days,Store in cool place,HPUS Listed
+Headache,Moderate,Adult,Nux vomica,Drops,1 tablet at night,7 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Child,Drosera,Syrup,1 tablet at night,Continuous,Do not exceed dosage,HPUS Listed
+Back Pain,Moderate,Adult,Arnica,Inhaler,1 tablet at night,30 days,Avoid driving,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,2 puffs as needed,Continuous,Take after food,HPUS Listed
+Migraine,Severe,Adult,Bryonia,Inhaler,250 mg once daily,Continuous,Do not exceed dosage,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Tablet,1 tablet at night,14 days,Do not exceed dosage,HPUS Listed
+Cough,Mild,Adult,Drosera,Syrup,250 mg once daily,Continuous,Take after food,HPUS Listed
+Arthritis,Severe,Adult,Rhus tox,Powder,2 puffs as needed,Continuous,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Tablet,250 mg once daily,30 days,Store in cool place,HPUS Listed
+Migraine,Mild,Elderly,Belladonna,Tablet,1 tablet at night,Continuous,Take after food,HPUS Listed
+Headache,Moderate,Elderly,Belladonna,Tablet,500 mg twice daily,7 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,1 tsp twice daily,5 days,Avoid alcohol,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Syrup,5 ml thrice daily,14 days,Do not exceed dosage,HPUS Listed
+Cough,Moderate,Adult,Antimonium,Powder,1 tablet at night,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Moderate,Adult,Allium cepa,Drops,1 tablet at night,Continuous,Store in cool place,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Powder,500 mg twice daily,10 days,Store in cool place,HPUS Listed
+Back Pain,Mild,Adult,Bryonia,Tablet,5 ml thrice daily,30 days,Do not exceed dosage,HPUS Listed
+Migraine,Severe,Adult,Natrum muriaticum,Tablet,2 puffs as needed,30 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Severe,Adult,Bryonia,Drops,1 tsp twice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Adult,Belladonna,Inhaler,500 mg twice daily,14 days,Take after food,HPUS Listed
+Back Pain,Severe,Child,Rhus tox,Capsule,500 mg twice daily,14 days,Store in cool place,HPUS Listed
+Flu,Severe,Adult,Gelsemium,Tablet,2 puffs as needed,5 days,Avoid driving,HPUS Listed
+Cough,Mild,Adult,Drosera,Capsule,1 tablet at night,Continuous,Consult doctor if pregnant,HPUS Listed
+Anxiety,Severe,Adult,Gelsemium,Drops,500 mg twice daily,10 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Powder,250 mg once daily,30 days,Store in cool place,HPUS Listed
+Arthritis,Mild,Child,Rhus tox,Tablet,2 puffs as needed,14 days,Store in cool place,HPUS Listed
+Cold,Mild,Elderly,Gelsemium,Tablet,250 mg once daily,Continuous,Avoid driving,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Capsule,500 mg twice daily,5 days,Do not exceed dosage,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Inhaler,250 mg once daily,30 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Drops,1 tablet at night,5 days,Store in cool place,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Inhaler,500 mg twice daily,3 days,Take after food,HPUS Listed
+Fever,Moderate,Adult,Ferrum Phos,Drops,250 mg once daily,7 days,Take after food,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Capsule,250 mg once daily,10 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Mild,Adult,Arsenicum album,Inhaler,2 puffs as needed,Continuous,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Belladonna,Tablet,250 mg once daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Moderate,Child,Arsenicum album,Drops,5 ml thrice daily,3 days,Consult doctor if pregnant,HPUS Listed
+Headache,Mild,Adult,Belladonna,Tablet,1 tablet at night,14 days,Avoid driving,HPUS Listed
+Headache,Mild,Adult,Nux vomica,Capsule,2 puffs as needed,Continuous,Store in cool place,HPUS Listed
+Anxiety,Moderate,Elderly,Gelsemium,Tablet,5 ml thrice daily,Continuous,Store in cool place,HPUS Listed
+Migraine,Moderate,Adult,Belladonna,Syrup,1 tablet at night,10 days,Avoid driving,HPUS Listed
+Cough,Mild,Elderly,Antimonium,Tablet,2 puffs as needed,10 days,Avoid driving,HPUS Listed
+Migraine,Mild,Elderly,Natrum muriaticum,Powder,500 mg twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Migraine,Severe,Adult,Belladonna,Drops,250 mg once daily,5 days,Store in cool place,HPUS Listed
+Fever,Moderate,Adult,Aconite,Capsule,250 mg once daily,10 days,Do not exceed dosage,HPUS Listed
+Migraine,Mild,Adult,Belladonna,Inhaler,1 tsp twice daily,14 days,Avoid driving,HPUS Listed
+Cough,Moderate,Adult,Drosera,Powder,1 tsp twice daily,30 days,Take after food,HPUS Listed
+Migraine,Severe,Adult,Bryonia,Powder,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Flu,Mild,Elderly,Arsenicum album,Powder,2 puffs as needed,30 days,Avoid driving,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Tablet,5 ml thrice daily,3 days,Take after food,HPUS Listed
+Anxiety,Severe,Child,Argentum nitricum,Syrup,1 tsp twice daily,Continuous,Take after food,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Powder,500 mg twice daily,5 days,Take after food,HPUS Listed
+Back Pain,Mild,Child,Rhus tox,Syrup,500 mg twice daily,30 days,Store in cool place,HPUS Listed
+Arthritis,Moderate,Child,Calcarea,Drops,500 mg twice daily,Continuous,Consult doctor if pregnant,HPUS Listed
+Allergy,Moderate,Elderly,Allium cepa,Powder,500 mg twice daily,5 days,Consult doctor if pregnant,HPUS Listed
+Cold,Moderate,Adult,Allium cepa,Syrup,250 mg once daily,30 days,Do not exceed dosage,HPUS Listed
+Arthritis,Moderate,Adult,Rhus tox,Drops,5 ml thrice daily,Continuous,Store in cool place,HPUS Listed
+Back Pain,Moderate,Adult,Rhus tox,Drops,250 mg once daily,7 days,Avoid alcohol,HPUS Listed
+Headache,Mild,Adult,Belladonna,Powder,250 mg once daily,5 days,Consult doctor if pregnant,HPUS Listed
+Allergy,Severe,Elderly,Arsenicum album,Inhaler,1 tsp twice daily,Continuous,Avoid alcohol,HPUS Listed
+Migraine,Moderate,Adult,Bryonia,Capsule,1 tsp twice daily,Continuous,Do not exceed dosage,HPUS Listed
+Fever,Mild,Elderly,Belladonna,Capsule,500 mg twice daily,3 days,Avoid driving,HPUS Listed
+Headache,Mild,Elderly,Belladonna,Inhaler,2 puffs as needed,3 days,Do not exceed dosage,HPUS Listed
+Back Pain,Mild,Elderly,Rhus tox,Drops,1 tablet at night,30 days,Consult doctor if pregnant,HPUS Listed
+Fever,Mild,Adult,Belladonna,Syrup,500 mg twice daily,30 days,Take after food,HPUS Listed
+Headache,Mild,Child,Belladonna,Drops,1 tsp twice daily,7 days,Avoid driving,HPUS Listed
+Cold,Mild,Adult,Allium cepa,Drops,250 mg once daily,3 days,Avoid driving,HPUS Listed
+Headache,Moderate,Adult,Belladonna,Drops,250 mg once daily,3 days,Take after food,HPUS Listed
+Headache,Moderate,Adult,Nux vomica,Drops,500 mg twice daily,14 days,Take after food,HPUS Listed
+Flu,Mild,Adult,Gelsemium,Syrup,1 tablet at night,5 days,Consult doctor if pregnant,HPUS Listed
+Anxiety,Moderate,Adult,Argentum nitricum,Tablet,5 ml thrice daily,10 days,Avoid driving,HPUS Listed

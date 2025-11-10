@@ -1,0 +1,104 @@
+/* General background gradient */
+body.bg-gradient {
+    background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%);
+    min-height: 100vh;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 1.5rem;
+    background: #fff;
+    transition: all 0.4s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Buttons */
+.btn {
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+.hover-glow:hover {
+    box-shadow: 0px 0px 20px rgba(13, 110, 253, 0.5);
+}
+
+/* Dropdown shadow */
+.form-select {
+    border-radius: 0.75rem;
+}
+
+/* Label style */
+label {
+    color: #0d6efd;
+}
+
+/* RESULT PAGE STYLE */
+.table th {
+    width: 40%;
+    font-weight: 600;
+}
+
+.table td {
+    color: #333;
+}
+
+.bg-light {
+    background: #f8f9fa !important;
+}
+
+.text-success {
+    color: #198754 !important;
+}
+
+/* Add a soft pulse animation on the medicine name */
+h4 span {
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        color: #0d6efd;
+    }
+    to {
+        color: #198754;
+    }
+}
+
+/* ========== PAGE TRANSITIONS ========== */
+
+/* Fade animation */
+.fade-in {
+    animation: fadeIn 0.6s ease forwards;
+}
+
+.fade-out {
+    animation: fadeOut 0.6s ease forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; transform: translateY(0); }
+    to { opacity: 0; transform: translateY(-15px); }
+}
+
+/* Smooth body transition */
+body {
+    opacity: 0;
+    transition: opacity 0.6s ease-in-out;
+}
+
+body.loaded {
+    opacity: 1;
+}

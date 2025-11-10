@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediGuide | Smart Medicine Recommendation</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
+
+</head>
+
+<body class="bg-gradient">
+
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+
+                <div class="card shadow-lg border-0 p-4 animate__animated animate__fadeInDown rounded-4">
+                    <h2 class="text-center text-primary fw-bold mb-3 animate__animated animate__pulse animate__infinite">
+                        💊 AI-Powered Medicine Recommendation
+                    </h2>
+                    <p class="text-center text-muted mb-4">
+                        Select your health details below — our AI will recommend the most suitable medicine.
+                    </p>
+
+                    <form id="predictionForm" action="{{ url_for('medicine_predict') }}" method="POST" class="fade-in">
+
+
+                        <!-- Medicine Type -->
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Medicine System</label>
+                            <select name="medicine_type" class="form-select shadow-sm" required>
+                                <option value="">-- Select Type --</option>
+                                {% for mt in medicine_types %}
+                                <option value="{{ mt }}">{{ mt }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Disease Name -->
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Disease Name</label>
+                            <select name="disease_name" class="form-select shadow-sm" required>
+                                <option value="">-- Select Disease --</option>
+                                {% for dn in disease_names %}
+                                <option value="{{ dn }}">{{ dn }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Age Group -->
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Age Group</label>
+                            <select name="age_group" class="form-select shadow-sm" required>
+                                <option value="">-- Select Age Group --</option>
+                                {% for ag in age_groups %}
+                                <option value="{{ ag }}">{{ ag }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Disease Severity -->
+                        <div class="mb-4">
+                            <label class="form-label fw-semibold">Disease Severity</label>
+                            <select name="severity" class="form-select shadow-sm" required>
+                                <option value="">-- Select Severity --</option>
+                                {% for sev in severities %}
+                                <option value="{{ sev }}">{{ sev }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary btn-lg px-5 shadow-sm hover-glow">
+                                🔍 Predict Medicine
+                            </button>
+                            <button type="reset" class="btn btn-outline-secondary btn-lg ms-2 px-5">
+                                🔄 Reset
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    // Fade-in effect when page loads
+    window.addEventListener("load", function () {
+        document.body.classList.add("loaded");
+    });
+
+    // Fade-out effect before navigation
+    document.querySelectorAll("a, form").forEach(el => {
+        el.addEventListener("submit", function (e) {
+            document.body.classList.remove("loaded");
+        });
+        el.addEventListener("click", function (e) {
+            if (this.tagName === "A" && this.href) {
+                e.preventDefault();
+                document.body.classList.remove("loaded");
+                setTimeout(() => {
+                    window.location.href = this.href;
+                }, 400);
+            }
+        });
+    });
+</script>
+
+</body>
+</html>

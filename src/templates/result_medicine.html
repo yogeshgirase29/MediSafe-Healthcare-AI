@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicine Prediction Result | MediGuide</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='/static/css/style.css') }}"> -->
+</head>
+
+<body class="bg-gradient">
+
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+
+                <!-- Main Result Card -->
+                <div class="card shadow-lg border-0 p-4 animate__animated animate__fadeInUp rounded-4">
+                    <h2 class="text-center text-success fw-bold mb-3 animate__animated animate__pulse animate__infinite">
+                        ✅ Predicted Medicine Recommendation
+                    </h2>
+
+                    {% if details %}
+                    <div class="card-body text-center animate__animated animate__fadeInUp">
+                        <h3 class="text-primary mb-4">
+                            🩺 For <strong>{{ details.Disease_Name }}</strong> ({{ system }})
+                        </h3>
+
+                        <div class="p-4 rounded-4 shadow-sm bg-light">
+                            <h4 class="fw-bold text-success mb-3">
+                                💊 Recommended Medicine: <span class="text-dark">{{ details.Medicine_Name }}</span>
+                            </h4>
+
+                            <table class="table table-borderless text-start mb-0">
+                                <tbody>
+                                    <tr>
+                                        <th scope="row" class="text-primary">Dosage Form:</th>
+                                        <td>{{ details.Dosage_Form }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="text-primary">Recommended Dosage:</th>
+                                        <td>{{ details.Recommended_Dosage }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="text-primary">Treatment Duration:</th>
+                                        <td>{{ details.Treatment_Duration }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="text-primary">Precautions:</th>
+                                        <td>{{ details.Precautions }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row" class="text-primary">Approval Status:</th>
+                                        <td>{{ details.Medicine_Approval_Status }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="mt-4">
+                            <a href="/medicine" class="btn btn-outline-primary btn-lg px-5">
+                                🔁 Predict Again
+                            </a>
+                        </div>
+                    </div>
+                    {% else %}
+                    <div class="alert alert-danger text-center mt-4">
+                        ❌ Sorry, we couldn’t process your request. Please try again.
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+    // Fade-in effect when page loads
+    window.addEventListener("load", function () {
+        document.body.classList.add("loaded");
+    });
+
+    // Fade-out effect before navigation
+    document.querySelectorAll("a, form").forEach(el => {
+        el.addEventListener("submit", function (e) {
+            document.body.classList.remove("loaded");
+        });
+        el.addEventListener("click", function (e) {
+            if (this.tagName === "A" && this.href) {
+                e.preventDefault();
+                document.body.classList.remove("loaded");
+                setTimeout(() => {
+                    window.location.href = this.href;
+                }, 400);
+            }
+        });
+    });
+</script>
+
+</body>
+</html>
