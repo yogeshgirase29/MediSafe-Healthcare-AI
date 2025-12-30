@@ -248,30 +248,6 @@ def medicine_home():
 
 
 @app.route("/medicine_predict", methods=["POST"])
-# def medicine_predict():
-#     try:
-#         medicine_type = request.form["medicine_type"].lower()
-#         disease = request.form["disease_name"]
-#         age_group = request.form["age_group"]
-#         severity = request.form["severity"]
-
-#         mdl = med_models[medicine_type]
-#         model = mdl["model"]
-#         encoder = mdl["encoder"]
-#         lookup = mdl["lookup"]
-
-#         input_df = pd.DataFrame([[disease, severity, age_group]],
-#                                 columns=["Disease_Name", "Disease_Severity", "Age_Group"])
-#         pred_encoded = model.predict(input_df)[0]
-#         medicine_name = encoder.inverse_transform([int(pred_encoded)])[0]
-
-#         rec = lookup[lookup["Medicine_Name"].str.lower() == medicine_name.lower()]
-#         details = rec.iloc[0].to_dict() if not rec.empty else {"Medicine_Name": medicine_name}
-
-#         return render_template("result_medicine.html", details=details, system=medicine_type.capitalize())
-
-#     except Exception as e:
-#         return render_template("result_medicine.html", prediction=f"Error: {e}")
 def medicine_predict():
     try:
         # Get user inputs
@@ -279,8 +255,6 @@ def medicine_predict():
         disease = request.form["disease_name"]
         age_group = request.form["age_group"]
         severity = request.form["severity"]
-
-        print(f"User Input → Type: {medicine_type}, Disease: {disease}, Age: {age_group}, Severity: {severity}")
 
         # Validate selected type
         if medicine_type not in med_models:
@@ -300,8 +274,6 @@ def medicine_predict():
         # Predict encoded label
         pred_encoded = model.predict(input_df)[0]
         medicine_name = encoder.inverse_transform([int(pred_encoded)])[0]
-
-        print(f"✅ Predicted Medicine: {medicine_name}")
 
         # Retrieve recommendation details
         rec = lookup[lookup["Medicine_Name"].str.lower() == medicine_name.lower()]
